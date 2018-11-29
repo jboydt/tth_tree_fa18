@@ -1,4 +1,4 @@
-#pragma once 
+#pragma once
 
 #include <iostream>
 using std::cout;
@@ -10,59 +10,60 @@ class BSTree {
 			nodeCount = 0;
 			root = nullptr;
 		}
-		
+
 		~BSTree() {
 			// TODO
 		}
-		
+
 		void clear() {
-			// TODO 
+			// TODO
 			// recursive private TODO
 		}
-		
+
 		bool find(T data) {
-			// TODO 
+			// TODO
 			// recursive private TODO
 		}
-		
+
 		T* get(T data) {
-			// TODO 
+			// TODO
 			// recursive private TODO
 		}
-		
+
 		void printReverseOrder() {
-			// TODO 
+			// TODO
 			// recursive private TODO
+      printReverseOrder(root);
 		}
-		
+
 		// public inorder traversal
 		void printInOrder() {
 			printInOrder(root);
 		}
-		
-		// public insert 
+
+		// public insert
 		void insert(T newData) {
 			insert(root, newData);
 		}
-		
+
 		unsigned int getNodeCount() {
 			return nodeCount;
 		}
-	
+
 	private:
 		unsigned int nodeCount;
 		struct Node {
-			T data; 
+			T data;
 			Node* leftChild;
 			Node* rightChild;
-			
+
 			Node(T newData) {
 				data = newData;
 				leftChild = rightChild = nullptr;
 			}
 		} *root;
-		
-		// private recursive insert 
+
+		// private recursive insert
 		void insert(Node*& n, T newData) {
 			if (n == nullptr) {
 				n = new Node(newData);
@@ -75,8 +76,8 @@ class BSTree {
 				// do nothing
 			}
 		}
-		
-		// private recursive inorder traversal 
+
+		// private recursive inorder traversal
 		void printInOrder(Node* n) {
 			if (n == nullptr) {
 				// do nothing
@@ -86,4 +87,14 @@ class BSTree {
 				printInOrder(n->rightChild);
 			}
 		}
+
+    void printReverseOrder(Node* n) {
+      if (n == nullptr) {
+        // do nothing
+      } else {
+        printReverseOrder(n->rightChild);
+        cout<< n->data << ',';
+        printReverseOrder(n->leftChild);
+      }
+    }
 };
