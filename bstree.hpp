@@ -23,6 +23,7 @@ class BSTree {
 		bool find(T data) {
 			// TODO
 			// recursive private TODO
+      return find(root,data);
 		}
 
 		T* get(T data) {
@@ -88,6 +89,7 @@ class BSTree {
 			}
 		}
 
+    //prints the tree in reverse order.
     void printReverseOrder(Node* n) {
       if (n == nullptr) {
         // do nothing
@@ -95,6 +97,19 @@ class BSTree {
         printReverseOrder(n->rightChild);
         cout<< n->data << ',';
         printReverseOrder(n->leftChild);
+      }
+    }
+
+    //Find a value in the tree. 
+    bool find(Node*n, T data){
+      if(n == nullptr) {
+        return false;
+      }else if(n->data > data){
+        return find(n->leftChild, data);
+      } else if(n->data < data){
+        return find(n->rightChild, data);
+      }else if(n->data==data){
+        return true;
       }
     }
 };

@@ -49,5 +49,8 @@ TEST_CASE("BSTree<string> basicPrintReverse") {
 	tree.insert("fish");
 	tree.insert("shark");
 
+  CHECK(tree.find("fish") == true);
+  CHECK(tree.find("") == false);
+  CHECK(tree.find("Lizard")==false);
 	tree.printReverseOrder();
 }
