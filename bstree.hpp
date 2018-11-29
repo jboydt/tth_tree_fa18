@@ -12,12 +12,11 @@ class BSTree {
 		}
 
 		~BSTree() {
-			// TODO
+			clear(root);
 		}
 
 		void clear() {
-			// TODO
-			// recursive private TODO
+			clear(root);
 		}
 
 		bool find(T data) {
@@ -64,6 +63,25 @@ class BSTree {
 			}
 		} *root;
 
+		//private recursive clear
+		void clear (Node*& n) {
+			if(n == nullptr){
+				//do nothing
+			}else {
+				if(n->rightChild != nullptr){
+					clear(n->rightChild);
+					n->rightChild = nullptr;
+				}
+				if(n->leftChild != nullptr){
+					clear(n->leftChild);
+					n->leftChild = nullptr;
+				}
+				delete troot;
+				troot = nullptr;
+				size--;
+			}
+		}
+
 		// private recursive insert
 		void insert(Node*& n, T newData) {
 			if (n == nullptr) {
@@ -100,7 +118,7 @@ class BSTree {
       }
     }
 
-    //Find a value in the tree. 
+    //Find a value in the tree.
     bool find(Node*n, T data){
       if(n == nullptr) {
         return false;
