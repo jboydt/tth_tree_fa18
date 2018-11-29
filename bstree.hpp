@@ -20,8 +20,6 @@ class BSTree {
 		}
 
 		bool find(T data) {
-			// TODO
-			// recursive private TODO
       return find(root,data);
 		}
 
@@ -31,8 +29,6 @@ class BSTree {
 		}
 
 		void printReverseOrder() {
-			// TODO
-			// recursive private TODO
       printReverseOrder(root);
 		}
 
