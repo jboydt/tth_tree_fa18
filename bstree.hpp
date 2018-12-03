@@ -26,6 +26,7 @@ class BSTree {
 		T* get(T data) {
 			// TODO
 			// recursive private TODO
+			return get(data);
 		}
 
 		void printReverseOrder() {
@@ -126,4 +127,18 @@ class BSTree {
         return true;
       }
     }
+
+		T* get(T data){
+			if(n == nullptr) {
+				return nullptr;
+			}else if(n->data > data){
+				return get(n->leftChild, data);
+			} else if(n->data < data){
+				return get(n->rightChild, data);
+			}else if(n->data==data){
+				return &(n->data);
+			}
+		}
+
+
 };
