@@ -44,13 +44,55 @@ int main(int argc, char* argv[]){
           }else if (nextLine.at(0)=='I'){
             if (tree!=nullptr){
               string y=nextLine.substr(2, 999);
-							if (tree->find(y)){
-              }
-							cout << "TREE DELETED\n";
+							Word temp(y)=x;
+							if (tree->find(x)){
+								cout << "WORD " << y << " INCREMENTED\n";
+              }else {
+								cout << "WORD " << y << " INSERTED\n";
+							}
+							tree->insert(temp);
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
-          }
+          }else if (nextLine.at(0)=='F'){
+            if (tree!=nullptr){
+							if (tree->getNodeCount()>0){
+	              string y=nextLine.substr(2, 999);
+								Word temp(y)=x;
+								if (tree->find(x)){
+									cout << "WORD " << y << " FOUND\n";
+	              }else {
+									cout << "WORD " << y << " NOT FOUND\n";
+								}
+							}else{
+								cout << "TREE EMPTY\n";
+							}
+						}else{
+							cout << "MUST CREATE TREE INSTANCE\n";
+						}
+          }else if (nextLine.at(0)=='R'){
+            if (tree!=nullptr){
+							if (tree->getNodeCount()>0){
+	              string y=nextLine.substr(2, 999);
+								Word temp(y)=x;
+								if (tree->remove(x)){
+									cout << "WORD " << y << " REMOVED\n";
+	              }else {
+									cout << "WORD " << y << " NOT FOUND\n";
+								}
+							}else{
+								cout << "TREE EMPTY\n";
+							}
+						}else{
+							cout << "MUST CREATE TREE INSTANCE\n";
+						}
+          }else if (nextLine.at(0) == 'N'){
+						if (tree !=nullptr){
+							cout <<"GOT "<<  tree->getNodeCount();
+						}else {
+							cout <<"MUST CREATE TREE INSTANCE\n";
+						}
+					}
       }else {
         cout << "Unable to find/read file.\n";
         running=false;
