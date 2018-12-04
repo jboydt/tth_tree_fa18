@@ -103,6 +103,16 @@ int main(int argc, char* argv[]){
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
+					}else if( getLine.at(0) == 'E'){
+						if (tree != nullptr){
+							if (getNodeCount() == 0){
+								cout<< "TREE EMPTY\n";
+							}else{
+								tree->printReverseOrder();
+							}
+						}else {
+							cout <<"MUST CREATE TREE INSTANCE\n";
+						}
 					}
       }else {
         cout << "Unable to find/read file.\n";
