@@ -88,7 +88,9 @@ int main(int argc, char* argv[]){
 						}
           }else if (nextLine.at(0) == 'N'){
 						if (tree !=nullptr){
-							cout <<"GOT "<<  tree->getNodeCount();
+							string y = nextline.substr(2, 999);
+							Word temp(y)=x;
+							cout <<"GOT "<< y <<  tree->getNodeCount();
 						}else {
 							cout <<"MUST CREATE TREE INSTANCE\n";
 						}
@@ -101,6 +103,7 @@ int main(int argc, char* argv[]){
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
+					}
       }else {
         cout << "Unable to find/read file.\n";
         running=false;
