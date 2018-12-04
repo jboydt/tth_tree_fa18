@@ -45,7 +45,6 @@ int main(int argc, char* argv[]){
             if (tree!=nullptr){
               string y=nextLine.substr(2, 999);
 							if (tree->find(y)){
-                
               }
 							cout << "TREE DELETED\n";
 						}else{
