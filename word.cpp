@@ -15,7 +15,11 @@ void Word::setWord(string newWord) {
 }
 
 void Word::incrementCount(unsigned int amount){
+<<<<<<< HEAD
     amount++;
+=======
+
+>>>>>>> dbb9fca00150e41728aaeff52ae4674cb814dab0
 }
 
 string Word::getWord()  {
@@ -26,20 +30,30 @@ unsigned int Word::getCount()  {
   return amount;
 }
 
-bool Word::operator<(const Word& otherWord)  {
 
+bool Word::operator<(const Word& otherWord)  {
+  return(
+    uppercase(name) < uppercase(otherWord.name);
+  );
 }
 
 bool Word::operator>(const Word& otherWord)  {
-
+  return(
+    uppercase(name) > uppercase(otherWord.name);
+  );
 }
 
 bool Word::operator==(const Word& otherWord)  {
-
+  return(
+    uppercase(name) == uppercase(otherWord.name);
+  );
 }
 
 ostream& operator<<(ostream& outs, const Word& w)  {
-
+  outs<< w.name
+      << " "
+      << w.count;
+  return outs;
 }
 string Word::uppercase(string s){
   for(int i =0, i < s.size(), i++){
