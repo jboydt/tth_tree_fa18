@@ -1,8 +1,8 @@
 #include "word.h"
 
 Word::Word() {
-  unsinged int amount = 0;
-  string name;
+  amount = 0;
+  name = "";
 }
 
 Word::Word(string newWord) {
@@ -15,7 +15,7 @@ void Word::setWord(string newWord) {
 }
 
 void Word::incrementCount(unsigned int amount){
-    amount++;
+  amount++;
 }
 
 string Word::getWord()  {
@@ -29,30 +29,31 @@ unsigned int Word::getCount()  {
 
 bool Word::operator<(const Word& otherWord)  {
   return(
-    uppercase(name) < uppercase(otherWord.name);
+    uppercase(name) < uppercase(otherWord.name)
   );
 }
 
 bool Word::operator>(const Word& otherWord)  {
   return(
-    uppercase(name) > uppercase(otherWord.name);
+    uppercase(name) > uppercase(otherWord.name)
   );
 }
 
 bool Word::operator==(const Word& otherWord)  {
   return(
-    uppercase(name) == uppercase(otherWord.name);
+    uppercase(name) == uppercase(otherWord.name)
   );
 }
 
-ostream& operator<<(ostream& outs, const Word& w)  {
+ ostream& operator<<(ostream& outs, const Word& w)  {
   outs<< w.name
       << " "
-      << w.count;
+      << w.amount;
   return outs;
 }
 string Word::uppercase(string s){
-  for(int i =0, i < s.size(), i++){
+  for(unsigned int i =0; i < s.size(); i++){
     s.at(i) = toupper(s.at(i));
   }
+  return s;
 }
