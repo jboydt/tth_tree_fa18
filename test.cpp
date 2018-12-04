@@ -5,14 +5,104 @@
 #include "word.h"
 
 #include <string>
+#include <sstream>
 using std::string;
+using std::stringstream;
 
-TEST_CASE("BSTree<Word>") {
-  BSTree<Word> tree;
+TEST_CASE("Word function test") {
+  Word Apple;
+  //sets the word to default to ???
+  //Apple.word();
+  //CHECK(Apple.getword == ???);
 
-  tree.insert(Word());
+  //sets the word of the obj
+  Apple.setWord("Apple");
+  CHECK(test.getWord == "Apple");
+
+  //sets the number of times the word has been pinged
+  Apple.incrementCount(7);
+  CHECK(Apple.getCount == 7);
+
+  Word Banana;
+
+  Banana.setWord("Banana");
+  CHECK(Banana == "Banana");
+
+  Banana.incrementCount(2);
+  CHECK(Banana.getCount == 2);
+  CHECK(Apple < Banana);
+  CHECK(Banana > Apple);
+  CHECK(Apple == Apple);
+
+  Word Banana2;
+  Banana2.setWord("Banana");
+  CHECK(Banana2 == "Banana");
+  CHECK(Banana2 == Banana);
+
+  stringstream ss;
+  ss << Apple;
+  CHECK(ss.str() == "Apple");
 }
 
+TEST_CASE("BSTree<Word> basic"){
+  BSTree<Word> tree;
+
+  Word Apple;
+  Apple.setWord("Apple");
+  Word Banana;
+  Banana.setWord("Banana");
+  Word Cookie;
+  Cookie.setWord("Cookie");
+  Word Dorito;
+  Dorito.setWord("Dorito");
+  Word Egg;
+  Egg.setWord("Egg");
+  Word Fish;
+  Fish.setWord("Fish");
+  Word Grape;
+  Grape.setWord("Grape")
+  Word Ham
+  Ham.setWord("Ham");
+  Word Icecream;
+  Icecream.setWord("Icecream");
+
+  CHECK();
+
+  tree.insert(Apple);
+  tree.insert(Banana);
+  tree.insert(Cookie);
+  tree.insert(Dorito);
+  tree.insert(Egg);
+  tree.insert(Fish);
+  tree.insert(Grape);
+  tree.insert(Ham);
+  tree.insert(Icecream);
+
+  tree.printInOrder();
+  tree.printReverseOrder();
+
+  CHECK(tree.find(Apple) == true);
+  CHECK(tree.find(Artichoke == false));
+  CHECK(tree.find(Icecream == true) );
+  CHECK(tree.getNodeCount() == 9);
+  CHECK(tree.get(Apple) == Apple);
+
+
+  Word Apple2;
+  Apple2.setWord("Apple");
+  Word Apple3;
+  Apple3.setWord("Apple");
+  Word Apple4;
+  Apple4.setWord("Apple");
+
+  tree.insert(Apple2);
+  tree.insert(Apple3);
+  tree.insert(Apple4);
+
+  CHECK(tree.getNodeCount() == 9);
+  CHECK(tree.get(Apple) == Apple);
+
+}
 /*
 TEST_CASE("BSTree<int> basic") {
 	BSTree<int> tree;
