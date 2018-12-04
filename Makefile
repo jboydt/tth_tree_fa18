@@ -3,6 +3,18 @@ CPP_FLAGS = -std=c++11 -Wall -Wextra -Werror
 # uncomment for Linux
 #CC = g++
 #RM = rm -f
+<<<<<<< HEAD
+=======
+
+# uncomment for Mac OS X
+#CC = g++
+#RM = rm -f
+
+# uncomment for Windows (make sure MinGW/MSYS are installed!)
+#CC = g++
+#RM = del # cmd.exe
+#RM = rm -fo # PowerShell
+>>>>>>> 4166450ff196bf46a2f89bd1befad0412eca8d76
 
 # uncomment for Mac OS X
 #CC = g++
