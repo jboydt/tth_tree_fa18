@@ -103,6 +103,7 @@ int main(int argc, char* argv[]){
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
+					}
       }else {
         cout << "Unable to find/read file.\n";
         running=false;
