@@ -86,15 +86,13 @@ int main(int argc, char* argv[]){
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
-          }else if (nextLine.at(0)=='G'){
-            if (tree!=nullptr){
-              string y=nextLine.substr(2, 999);
-							Word temp(y)=x;
-							temp=tree->get(temp);
-							cout << "GOT " << temp.getWord() << " " << temp.getCount() << "\n";
-						}else{
-							cout << "MUST CREATE TREE INSTANCE\n";
+          }else if (nextLine.at(0) == 'N'){
+						if (tree !=nullptr){
+							cout <<"GOT "<<  tree->getNodeCount();
+						}else {
+							cout <<"MUST CREATE TREE INSTANCE\n";
 						}
+					}
       }else {
         cout << "Unable to find/read file.\n";
         running=false;
