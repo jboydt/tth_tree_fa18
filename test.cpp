@@ -2,10 +2,18 @@
 #include "catch.hpp"
 
 #include "bstree.hpp"
+#include "word.h"
 
 #include <string>
 using std::string;
 
+TEST_CASE("BSTree<Word>") {
+  BSTree<Word> tree;
+
+  tree.insert(Word());
+}
+
+/*
 TEST_CASE("BSTree<int> basic") {
 	BSTree<int> tree;
 
@@ -54,3 +62,4 @@ TEST_CASE("BSTree<string> basicPrintReverse") {
   CHECK(tree.find("Lizard")==false);
 	tree.printReverseOrder();
 }
+*/

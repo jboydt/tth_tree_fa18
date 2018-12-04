@@ -24,21 +24,17 @@ class BSTree {
 		}
 
 		T* get(T data) {
-			// TODO
-			// recursive private TODO
-			return get(data);
+			return get(root, data);
 		}
 
 		void printReverseOrder() {
       printReverseOrder(root);
 		}
 
-		// public inorder traversal
 		void printInOrder() {
 			printInOrder(root);
 		}
 
-		// public insert
 		void insert(T newData) {
 			insert(root, newData);
 		}
@@ -73,9 +69,9 @@ class BSTree {
 					clear(n->leftChild);
 					n->leftChild = nullptr;
 				}
-				delete troot;
-				troot = nullptr;
-				size--;
+				delete n;
+				n = nullptr;
+				nodeCount--;
 			}
 		}
 
@@ -110,7 +106,7 @@ class BSTree {
         // do nothing
       } else {
         printReverseOrder(n->rightChild);
-        cout<< n->data << ',';
+        cout << n->data << ',';
         printReverseOrder(n->leftChild);
       }
     }
@@ -123,19 +119,19 @@ class BSTree {
         return find(n->leftChild, data);
       } else if(n->data < data){
         return find(n->rightChild, data);
-      }else if(n->data==data){
+      }else if(n->data == sdata){
         return true;
       }
     }
 
-		T* get(T data){
+		T* get(Node* n, T data){
 			if(n == nullptr) {
 				return nullptr;
 			}else if(n->data > data){
 				return get(n->leftChild, data);
 			} else if(n->data < data){
 				return get(n->rightChild, data);
-			}else if(n->data==data){
+			}else if(n->data == data){
 				return &(n->data);
 			}
 		}
