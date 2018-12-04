@@ -1,27 +1,33 @@
 #include "word.h"
 
 Word::Word() {
-
+  unsinged int amount = 0;
+  string name;
 }
 
 Word::Word(string newWord) {
-
+  name = newWord;
+  amount = 0;
 }
 
 void Word::setWord(string newWord) {
-
+  name = newWord;
 }
 
 void Word::incrementCount(unsigned int amount){
+<<<<<<< HEAD
+    amount++;
+=======
 
+>>>>>>> dbb9fca00150e41728aaeff52ae4674cb814dab0
 }
 
 string Word::getWord()  {
-
+  return uppercase(name);
 }
 
 unsigned int Word::getCount()  {
-
+  return amount;
 }
 
 
@@ -48,4 +54,9 @@ ostream& operator<<(ostream& outs, const Word& w)  {
       << " "
       << w.count;
   return outs;
+}
+string Word::uppercase(string s){
+  for(int i =0, i < s.size(), i++){
+    s.at(i) = toupper(s.at(i));
+  }
 }

@@ -1,5 +1,18 @@
 #pragma once
 
+#include <string>
+#include <iostream>
+#include <ostringstream>
+#include <sstream>
+#include <fstream>
+
+
+using std::endl;
+using std::cout;
+using std::string;
+using std::ostringstream;
+using std::ifsream;
+using std::getline;
 // TODO -- need includes
 
 class Word {
@@ -21,4 +34,5 @@ public:
 
 private:
   string uppercase(string s);
+  
 };
