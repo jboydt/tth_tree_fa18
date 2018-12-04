@@ -8,15 +8,6 @@ CPP_FLAGS = -std=c++11 -Wall -Wextra -Werror
 #CC = g++
 #RM = rm -f
 
-# uncomment for Windows (make sure MinGW/MSYS are installed!)
-#CC = g++
-#RM = del # cmd.exe
-#RM = rm -fo # PowerShell
-
-# uncomment for Mac OS X
-#CC = g++
-#RM = rm -f
-
 # uncomment for Windows
 #CC = c:\mingw\bin\g++
 #RM = del # cmd.exe
