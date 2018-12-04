@@ -104,6 +104,15 @@ int main(int argc, char* argv[]){
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
 					}else if (nextLine.at(0)=='O'){
+						if (tree!=nullptr){
+							if (tree->getNodeCount()>0){
+	              tree->printInOrder();
+							}else{
+								cout << "TREE EMPTY\n";
+							}
+						}else{
+							cout << "MUST CREATE TREE INSTANCE\n";
+						}
 						tree->printInOrder();
 					}
       }else {
