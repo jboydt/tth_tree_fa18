@@ -103,6 +103,8 @@ int main(int argc, char* argv[]){
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
+					}else if (nextLine.at(0)=='O'){
+						tree->printInOrder();
 					}
       }else {
         cout << "Unable to find/read file.\n";
