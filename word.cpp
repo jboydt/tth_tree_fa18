@@ -12,8 +12,7 @@ void Word::setWord(string newWord) {
 
 }
 
-void Word::incrementCount(unsigned int amount)
-{
+void Word::incrementCount(unsigned int amount){
 
 }
 
@@ -25,18 +24,28 @@ unsigned int Word::getCount()  {
 
 }
 
-bool Word::operator<(const Word& otherWord)  {
 
+bool Word::operator<(const Word& otherWord)  {
+  return(
+    uppercase(name) < uppercase(otherWord.name);
+  );
 }
 
 bool Word::operator>(const Word& otherWord)  {
-
+  return(
+    uppercase(name) > uppercase(otherWord.name);
+  );
 }
 
 bool Word::operator==(const Word& otherWord)  {
-
+  return(
+    uppercase(name) == uppercase(otherWord.name);
+  );
 }
 
 ostream& operator<<(ostream& outs, const Word& w)  {
-
+  outs<< w.name
+      << " "
+      << w.count;
+  return outs;
 }
