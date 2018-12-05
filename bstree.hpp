@@ -19,9 +19,9 @@ class BSTree {
 			clear(root);
 		}
 
-		//bool remove(T data) {
-
-		//}
+		bool remove(T data) {
+			return false;
+		}
 
 		bool find(T data) {
       return find(root,data);
