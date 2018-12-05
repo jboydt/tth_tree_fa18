@@ -9,8 +9,8 @@ CPP_FLAGS = -std=c++11 -Wall -Wextra -Werror
 #RM = rm -f
 
 # uncomment for Windows
-#CC = c:\mingw\bin\g++
-#RM = del # cmd.exe
+CC = c:\mingw\bin\g++
+RM = del # cmd.exe
 #RM = rm -fo # PowerShell
 
 driver.exe: driver.cpp word.o

@@ -13,7 +13,6 @@ int main(int argc, char* argv[]){
 	}else{
     string filename=argv[1];
 		bool running=true;
-		unsigned int temp;
 		ifstream inputFile;
 		while (running){
 			inputFile.open(filename);
