@@ -9,11 +9,7 @@ CPP_FLAGS = -std=c++11 -Wall -Wextra -Werror
 #RM = rm -f
 
 # uncomment for Windows
-<<<<<<< HEAD
 CC = g++
-=======
-CC = c:\mingw\bin\g++
->>>>>>> fd82587695a8900b5477d664b12d269424bd2e6b
 RM = del # cmd.exe
 #RM = rm -fo # PowerShell
 
