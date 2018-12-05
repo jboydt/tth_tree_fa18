@@ -19,9 +19,9 @@ class BSTree {
 			clear(root);
 		}
 
-		bool remove(T data) {
-			
-		}
+		//bool remove(T data) {
+
+		//}
 
 		bool find(T data) {
       return find(root,data);
@@ -123,7 +123,7 @@ class BSTree {
         return find(n->leftChild, data);
       } else if(n->data < data){
         return find(n->rightChild, data);
-      }else if(n->data == sdata){
+      }else if(n->data == data){
         return true;
       }
     }
