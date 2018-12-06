@@ -1,0 +1,20 @@
+//chrisTestTXT
+
+# test for empty TREE
+#
+d
+D
+c
+C
+r
+R queef
+
+# test remove where root has target
+d
+D
+c
+C
+i
+I meow
+r
+R meow
