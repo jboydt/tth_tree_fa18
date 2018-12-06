@@ -65,10 +65,10 @@ int main(int argc, char* argv[]){
 							if (tree->find(x)){
 								Word* m = tree->get(x);
 								m->incrementCount();
-								cout << Word::uppercase(y) << " INCREMENTED\n";
+								cout << "WORD " << Word::uppercase(y) << " INCREMENTED\n";
               } else {
 								tree->insert(x);
-								cout << Word::uppercase(y) << " INSERTED\n";
+								cout << "WORD " << Word::uppercase(y) << " INSERTED\n";
 							}
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
