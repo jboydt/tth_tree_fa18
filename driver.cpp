@@ -92,9 +92,7 @@ int main(int argc, char* argv[]){
 						}
           }else if (nextLine.at(0) == 'N'){
 						if (tree !=nullptr){
-							string y = nextLine.substr(2, 999);
-							Word x(y);
-							cout <<"GOT "<< y <<  tree->getNodeCount();
+							cout <<"TREE SIZE IS " <<  tree->getNodeCount() <<endl;
 						}else {
 							cout <<"MUST CREATE TREE INSTANCE\n";
 						}

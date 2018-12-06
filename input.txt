@@ -1,0 +1,10000 @@
+N
+E
+C
+I peach
+I CHERRY
+I cherry
+I banana
+I CHERRY
+C
+O
+O
+E
+I cherry
+I BANANA
+I BANANA
+I CHERRY
+I APPLE
+R APPLE
+F PEACH
+N
+G CHERRY
+R apple
+I PEACH
+X
+I apple
+I banana
+I peach
+D
+D
+O
+G banana
+E
+G cherry
+N
+F PEACH
+I CHERRY
+G apple
+R cherry
+O
+R banana
+O
+N
+E
+I apple
+I BANANA
+F BANANA
+O
+G cherry
+F peach
+F cherry
+N
+N
+N
+O
+I cherry
+O
+I peach
+I CHERRY
+I PEACH
+I APPLE
+I cherry
+G banana
+N
+G apple
+O
+O
+F PEACH
+E
+I APPLE
+I APPLE
+G BANANA
+E
+I APPLE
+F CHERRY
+F banana
+N
+G apple
+F CHERRY
+E
+N
+E
+F BANANA
+O
+N
+O
+G banana
+F BANANA
+I APPLE
+I PEACH
+I peach
+I apple
+I cherry
+I peach
+I peach
+I peach
+I banana
+I peach
+I cherry
+I apple
+X
+G CHERRY
+N
+F BANANA
+O
+N
+F BANANA
+G apple
+N
+R APPLE
+F cherry
+N
+O
+E
+I banana
+I PEACH
+I peach
+G PEACH
+I CHERRY
+I PEACH
+I APPLE
+I CHERRY
+I PEACH
+I cherry
+I PEACH
+I CHERRY
+I PEACH
+I peach
+G PEACH
+D
+C
+F cherry
+O
+R CHERRY
+I APPLE
+R peach
+I BANANA
+E
+I cherry
+I peach
+I PEACH
+G cherry
+R apple
+N
+C
+I cherry
+I apple
+I banana
+I peach
+I APPLE
+I PEACH
+I PEACH
+F banana
+E
+I apple
+I APPLE
+I peach
+I peach
+I peach
+I APPLE
+I BANANA
+I BANANA
+I CHERRY
+I CHERRY
+I PEACH
+I CHERRY
+I CHERRY
+N
+O
+O
+R apple
+F APPLE
+R cherry
+F PEACH
+R PEACH
+I cherry
+I BANANA
+I CHERRY
+E
+N
+R cherry
+O
+O
+G BANANA
+F peach
+F CHERRY
+O
+F cherry
+R peach
+N
+G peach
+E
+O
+F PEACH
+N
+F apple
+O
+G BANANA
+I PEACH
+G PEACH
+N
+C
+E
+O
+R CHERRY
+I apple
+N
+G APPLE
+F banana
+I cherry
+I apple
+R apple
+O
+O
+I peach
+I cherry
+I BANANA
+I PEACH
+I banana
+I peach
+I peach
+E
+R banana
+O
+F BANANA
+I banana
+I apple
+I apple
+I PEACH
+I CHERRY
+I banana
+I cherry
+I peach
+I banana
+I peach
+F BANANA
+N
+R peach
+O
+R PEACH
+E
+N
+R APPLE
+F banana
+I APPLE
+I CHERRY
+F banana
+G CHERRY
+G PEACH
+N
+R BANANA
+N
+R CHERRY
+G banana
+I BANANA
+R BANANA
+G peach
+O
+F cherry
+C
+N
+F CHERRY
+E
+F BANANA
+F BANANA
+I peach
+R CHERRY
+O
+F CHERRY
+E
+R PEACH
+R cherry
+N
+F PEACH
+R peach
+G apple
+O
+E
+G PEACH
+N
+G apple
+N
+O
+I PEACH
+I BANANA
+X
+N
+R cherry
+N
+O
+F APPLE
+I peach
+I CHERRY
+I BANANA
+I CHERRY
+I banana
+N
+F PEACH
+N
+N
+F apple
+I banana
+I banana
+I banana
+I banana
+N
+N
+G cherry
+E
+O
+N
+N
+F PEACH
+O
+I cherry
+I peach
+I banana
+I CHERRY
+I PEACH
+I PEACH
+I banana
+I CHERRY
+I cherry
+D
+C
+F apple
+F CHERRY
+G apple
+G peach
+E
+I cherry
+I cherry
+I banana
+N
+F APPLE
+F banana
+I PEACH
+N
+N
+G APPLE
+R banana
+R banana
+E
+E
+N
+O
+D
+C
+E
+R BANANA
+I banana
+I APPLE
+I apple
+I apple
+N
+E
+R CHERRY
+F banana
+F apple
+I APPLE
+N
+G peach
+R BANANA
+F cherry
+F BANANA
+R PEACH
+N
+E
+E
+F apple
+I cherry
+I CHERRY
+I banana
+I cherry
+I APPLE
+I banana
+I PEACH
+I peach
+I APPLE
+I PEACH
+I BANANA
+I cherry
+F CHERRY
+G APPLE
+E
+G APPLE
+R peach
+I apple
+I BANANA
+X
+O
+G cherry
+R BANANA
+O
+O
+N
+G BANANA
+R PEACH
+F PEACH
+R PEACH
+O
+R PEACH
+E
+I cherry
+I BANANA
+I apple
+I BANANA
+I APPLE
+I apple
+I cherry
+I peach
+I cherry
+I cherry
+N
+F banana
+E
+E
+G PEACH
+O
+N
+F apple
+F BANANA
+R apple
+C
+O
+O
+R banana
+O
+R apple
+N
+R APPLE
+G APPLE
+I BANANA
+I CHERRY
+I apple
+I CHERRY
+I CHERRY
+I APPLE
+I CHERRY
+I CHERRY
+I APPLE
+I banana
+N
+R BANANA
+G CHERRY
+I CHERRY
+I cherry
+G peach
+F apple
+I PEACH
+N
+R peach
+F cherry
+G peach
+G CHERRY
+E
+O
+E
+I peach
+I BANANA
+R peach
+F CHERRY
+O
+C
+O
+O
+O
+G apple
+N
+I apple
+I APPLE
+C
+O
+X
+O
+G BANANA
+G peach
+R peach
+G peach
+F CHERRY
+R CHERRY
+G cherry
+O
+E
+I cherry
+I BANANA
+I banana
+I APPLE
+I peach
+I BANANA
+I PEACH
+I banana
+I banana
+I BANANA
+I apple
+I CHERRY
+O
+I cherry
+I cherry
+I PEACH
+I CHERRY
+I APPLE
+I apple
+I peach
+C
+N
+G cherry
+E
+E
+E
+N
+I peach
+X
+G peach
+R PEACH
+R apple
+G PEACH
+O
+O
+F CHERRY
+G apple
+N
+G cherry
+E
+E
+G peach
+F banana
+E
+G BANANA
+O
+G APPLE
+F apple
+G apple
+N
+F APPLE
+R CHERRY
+R BANANA
+O
+E
+G cherry
+E
+F APPLE
+I cherry
+I APPLE
+I PEACH
+N
+N
+G apple
+F APPLE
+N
+F BANANA
+N
+D
+C
+G apple
+O
+F APPLE
+F cherry
+R peach
+G APPLE
+R APPLE
+G APPLE
+R peach
+E
+F apple
+O
+I CHERRY
+O
+I banana
+E
+F cherry
+F apple
+E
+F cherry
+E
+R BANANA
+O
+I BANANA
+I apple
+I cherry
+I BANANA
+I banana
+I apple
+I APPLE
+I peach
+N
+E
+N
+I BANANA
+I cherry
+I peach
+I peach
+I APPLE
+I CHERRY
+E
+G APPLE
+N
+F peach
+I cherry
+I banana
+I peach
+I peach
+R banana
+G PEACH
+F PEACH
+G peach
+I banana
+O
+I apple
+F banana
+G banana
+N
+F PEACH
+O
+N
+O
+E
+O
+G CHERRY
+N
+I peach
+I peach
+I PEACH
+E
+N
+R PEACH
+R PEACH
+G cherry
+I banana
+R PEACH
+F banana
+R CHERRY
+N
+I CHERRY
+I CHERRY
+I PEACH
+I banana
+C
+N
+E
+N
+O
+I PEACH
+I APPLE
+I banana
+C
+N
+N
+I banana
+I CHERRY
+I cherry
+I banana
+I peach
+I PEACH
+I peach
+I PEACH
+I CHERRY
+F peach
+O
+F BANANA
+G apple
+N
+E
+E
+O
+F CHERRY
+N
+E
+N
+O
+D
+C
+E
+G BANANA
+O
+G BANANA
+G PEACH
+R peach
+I banana
+I cherry
+I PEACH
+N
+I banana
+I banana
+I banana
+I BANANA
+I BANANA
+O
+R PEACH
+E
+R cherry
+F BANANA
+F CHERRY
+I apple
+I apple
+G banana
+N
+E
+N
+I peach
+I PEACH
+I apple
+I peach
+I CHERRY
+I BANANA
+N
+E
+E
+I PEACH
+I CHERRY
+I cherry
+D
+C
+G BANANA
+O
+R CHERRY
+G apple
+I APPLE
+C
+E
+G PEACH
+R CHERRY
+G banana
+R BANANA
+E
+G cherry
+G PEACH
+R cherry
+R APPLE
+D
+C
+N
+G CHERRY
+R banana
+F cherry
+E
+O
+F BANANA
+R peach
+G BANANA
+O
+G apple
+F CHERRY
+E
+I banana
+I BANANA
+R cherry
+O
+F APPLE
+I BANANA
+I banana
+D
+C
+O
+G banana
+F APPLE
+C
+N
+I PEACH
+X
+O
+G PEACH
+R APPLE
+F banana
+N
+I BANANA
+I BANANA
+I PEACH
+I PEACH
+I PEACH
+N
+I APPLE
+I PEACH
+I APPLE
+I BANANA
+I peach
+I cherry
+C
+G PEACH
+I peach
+I banana
+O
+N
+O
+F cherry
+N
+E
+F APPLE
+F cherry
+R peach
+E
+R APPLE
+F peach
+N
+R cherry
+F peach
+N
+E
+R CHERRY
+F CHERRY
+O
+R CHERRY
+G CHERRY
+G peach
+O
+G CHERRY
+R APPLE
+R cherry
+N
+O
+G BANANA
+G APPLE
+E
+F banana
+R CHERRY
+O
+F apple
+O
+F peach
+O
+G APPLE
+I banana
+I APPLE
+I peach
+I BANANA
+F APPLE
+F CHERRY
+R apple
+E
+E
+G banana
+I BANANA
+I CHERRY
+I banana
+I banana
+G cherry
+E
+R PEACH
+O
+I cherry
+I cherry
+E
+I cherry
+I banana
+I BANANA
+I apple
+I CHERRY
+E
+E
+G apple
+I banana
+I CHERRY
+I cherry
+I APPLE
+I CHERRY
+I cherry
+I peach
+R cherry
+F cherry
+O
+N
+O
+E
+N
+I PEACH
+F apple
+F apple
+F APPLE
+O
+F cherry
+R PEACH
+F peach
+G apple
+O
+F PEACH
+O
+F cherry
+F BANANA
+D
+C
+I peach
+I PEACH
+I peach
+I peach
+I PEACH
+I cherry
+I cherry
+I PEACH
+I APPLE
+I CHERRY
+R apple
+G apple
+F APPLE
+I PEACH
+I APPLE
+G peach
+G cherry
+N
+O
+I peach
+I CHERRY
+I apple
+C
+E
+G apple
+I APPLE
+D
+X
+O
+R CHERRY
+N
+F CHERRY
+G APPLE
+R PEACH
+F apple
+N
+G cherry
+G banana
+F peach
+F apple
+O
+R banana
+N
+N
+F BANANA
+F apple
+E
+O
+G PEACH
+G cherry
+O
+G PEACH
+E
+R apple
+O
+G banana
+G cherry
+E
+E
+O
+N
+R banana
+F BANANA
+F BANANA
+R BANANA
+N
+I BANANA
+I PEACH
+R cherry
+R CHERRY
+F apple
+X
+N
+I BANANA
+I PEACH
+I apple
+I PEACH
+I cherry
+I APPLE
+O
+R peach
+O
+G CHERRY
+O
+R APPLE
+O
+G PEACH
+E
+I cherry
+I PEACH
+I banana
+R banana
+N
+F banana
+O
+R BANANA
+G peach
+G BANANA
+R cherry
+E
+O
+E
+E
+R cherry
+I CHERRY
+I peach
+I banana
+I apple
+N
+I CHERRY
+O
+E
+F CHERRY
+R CHERRY
+C
+O
+R banana
+N
+I cherry
+I PEACH
+I apple
+I CHERRY
+I BANANA
+I banana
+I cherry
+I banana
+I apple
+I CHERRY
+I apple
+I apple
+I CHERRY
+I apple
+I APPLE
+D
+C
+I PEACH
+I banana
+I CHERRY
+I banana
+I apple
+G CHERRY
+X
+R peach
+O
+O
+O
+F PEACH
+G BANANA
+O
+O
+D
+C
+R BANANA
+E
+O
+O
+O
+R CHERRY
+E
+N
+E
+E
+R BANANA
+F banana
+D
+C
+G BANANA
+N
+O
+I banana
+E
+R CHERRY
+I peach
+I cherry
+I CHERRY
+I BANANA
+I banana
+I apple
+I CHERRY
+I peach
+I apple
+I peach
+I apple
+O
+E
+I apple
+R apple
+E
+O
+G banana
+G apple
+I apple
+I CHERRY
+I peach
+F peach
+I cherry
+I banana
+I CHERRY
+I apple
+I PEACH
+I PEACH
+I banana
+I cherry
+I peach
+I cherry
+C
+I banana
+I cherry
+I PEACH
+I banana
+I banana
+I BANANA
+I BANANA
+I APPLE
+I PEACH
+I APPLE
+I peach
+I apple
+I APPLE
+I BANANA
+R BANANA
+O
+F BANANA
+E
+R APPLE
+G PEACH
+F CHERRY
+O
+R apple
+F PEACH
+G APPLE
+E
+E
+R APPLE
+N
+R PEACH
+F PEACH
+N
+G CHERRY
+I CHERRY
+I banana
+I PEACH
+R PEACH
+R BANANA
+F CHERRY
+E
+I banana
+I cherry
+I APPLE
+I APPLE
+I PEACH
+D
+C
+R CHERRY
+N
+G PEACH
+N
+F peach
+F apple
+N
+G banana
+G BANANA
+O
+E
+E
+N
+G banana
+G cherry
+F APPLE
+G apple
+N
+F CHERRY
+N
+I BANANA
+I apple
+C
+E
+N
+O
+O
+N
+X
+O
+G apple
+G cherry
+O
+G banana
+R peach
+G PEACH
+E
+R BANANA
+I banana
+I CHERRY
+I APPLE
+I banana
+I cherry
+I PEACH
+X
+R peach
+E
+G CHERRY
+F peach
+I BANANA
+I cherry
+I CHERRY
+I cherry
+I banana
+I cherry
+I cherry
+G cherry
+G banana
+G BANANA
+N
+E
+G cherry
+I CHERRY
+I APPLE
+R apple
+G cherry
+G banana
+F BANANA
+N
+N
+F cherry
+F peach
+O
+R APPLE
+R cherry
+I peach
+R apple
+F cherry
+G cherry
+N
+I peach
+I BANANA
+I PEACH
+I apple
+I APPLE
+F peach
+E
+F CHERRY
+F BANANA
+O
+E
+I peach
+R peach
+O
+I CHERRY
+I APPLE
+C
+G apple
+I apple
+I cherry
+I APPLE
+R CHERRY
+G CHERRY
+E
+F CHERRY
+F banana
+E
+I banana
+O
+G banana
+I APPLE
+I CHERRY
+I apple
+I peach
+I peach
+I apple
+I apple
+I CHERRY
+I cherry
+I APPLE
+X
+I peach
+I apple
+I banana
+I CHERRY
+D
+N
+F apple
+N
+G apple
+E
+F PEACH
+G cherry
+O
+E
+R BANANA
+F PEACH
+R CHERRY
+F banana
+F APPLE
+I APPLE
+G banana
+I APPLE
+O
+O
+I APPLE
+R PEACH
+N
+E
+R CHERRY
+E
+I APPLE
+I peach
+I cherry
+D
+C
+N
+O
+G banana
+N
+R banana
+E
+E
+E
+G peach
+F BANANA
+N
+R cherry
+E
+E
+G CHERRY
+O
+G APPLE
+I PEACH
+C
+R apple
+I cherry
+I APPLE
+I apple
+I APPLE
+I peach
+X
+F banana
+G apple
+G peach
+I APPLE
+I BANANA
+F cherry
+E
+G APPLE
+F APPLE
+E
+I PEACH
+I banana
+I cherry
+I CHERRY
+I apple
+F BANANA
+R CHERRY
+E
+N
+F CHERRY
+F CHERRY
+O
+O
+I cherry
+E
+N
+G banana
+O
+I banana
+I cherry
+I cherry
+I banana
+I peach
+I peach
+I cherry
+E
+N
+R PEACH
+E
+R banana
+N
+O
+I APPLE
+I cherry
+I PEACH
+I peach
+I banana
+I apple
+I banana
+I peach
+I BANANA
+I BANANA
+N
+N
+F banana
+E
+N
+E
+R BANANA
+I CHERRY
+I banana
+G banana
+N
+R cherry
+O
+F CHERRY
+N
+O
+E
+E
+G banana
+N
+O
+O
+E
+R peach
+N
+X
+O
+O
+G APPLE
+O
+I banana
+D
+N
+G cherry
+I CHERRY
+I APPLE
+I apple
+I CHERRY
+I banana
+I APPLE
+E
+R cherry
+N
+E
+R banana
+E
+E
+O
+G APPLE
+G PEACH
+O
+N
+O
+E
+G banana
+E
+G apple
+E
+E
+E
+O
+F banana
+X
+R BANANA
+I cherry
+I peach
+I APPLE
+I PEACH
+O
+R APPLE
+R BANANA
+R peach
+R APPLE
+R peach
+I apple
+I BANANA
+I apple
+I CHERRY
+I apple
+I BANANA
+I banana
+X
+R PEACH
+E
+R peach
+F PEACH
+E
+X
+F banana
+F apple
+E
+R apple
+O
+O
+I cherry
+D
+C
+N
+E
+C
+R banana
+O
+E
+N
+F APPLE
+E
+E
+E
+G BANANA
+G APPLE
+G banana
+G PEACH
+R peach
+R apple
+E
+G BANANA
+R banana
+G APPLE
+F cherry
+E
+R apple
+O
+N
+G APPLE
+E
+N
+I apple
+G peach
+O
+I apple
+I peach
+I apple
+I cherry
+I apple
+I BANANA
+X
+I PEACH
+I APPLE
+I banana
+I PEACH
+I peach
+E
+F cherry
+F apple
+G peach
+N
+G cherry
+C
+R banana
+E
+R PEACH
+R apple
+F banana
+O
+G peach
+G peach
+F peach
+R PEACH
+E
+O
+G PEACH
+O
+E
+R peach
+E
+G APPLE
+N
+G apple
+O
+O
+N
+I CHERRY
+I peach
+I apple
+E
+I CHERRY
+I CHERRY
+I APPLE
+G peach
+N
+R banana
+G banana
+E
+I APPLE
+I banana
+I banana
+I cherry
+D
+C
+O
+O
+I peach
+I cherry
+R APPLE
+F banana
+R banana
+I BANANA
+I peach
+I CHERRY
+I apple
+I cherry
+I banana
+I PEACH
+I BANANA
+I banana
+E
+G PEACH
+E
+I PEACH
+I BANANA
+I cherry
+I peach
+I peach
+D
+C
+D
+C
+D
+C
+N
+E
+I BANANA
+E
+E
+E
+R PEACH
+F banana
+I PEACH
+G banana
+R peach
+O
+F banana
+I apple
+I CHERRY
+I BANANA
+I apple
+I CHERRY
+I APPLE
+I BANANA
+I CHERRY
+I APPLE
+I APPLE
+X
+R BANANA
+I BANANA
+R PEACH
+R BANANA
+G banana
+R peach
+E
+G PEACH
+E
+F PEACH
+G BANANA
+X
+G PEACH
+F cherry
+G CHERRY
+R PEACH
+I peach
+I cherry
+I BANANA
+I APPLE
+O
+F APPLE
+O
+E
+R CHERRY
+E
+I cherry
+F APPLE
+O
+O
+G cherry
+I cherry
+I PEACH
+X
+E
+F BANANA
+E
+O
+E
+N
+I APPLE
+X
+E
+X
+R PEACH
+F PEACH
+R APPLE
+F apple
+G PEACH
+F CHERRY
+N
+N
+E
+O
+N
+O
+G cherry
+E
+G cherry
+F banana
+N
+O
+R peach
+F BANANA
+E
+E
+I CHERRY
+I CHERRY
+I apple
+I BANANA
+I peach
+I cherry
+I BANANA
+I BANANA
+I peach
+F apple
+F cherry
+F cherry
+C
+N
+G banana
+N
+I peach
+I APPLE
+I peach
+I CHERRY
+E
+R peach
+O
+F PEACH
+N
+N
+R BANANA
+I BANANA
+I BANANA
+F peach
+E
+X
+N
+I apple
+I apple
+I CHERRY
+I apple
+I peach
+I BANANA
+G BANANA
+R cherry
+E
+N
+I cherry
+I APPLE
+I apple
+I cherry
+I peach
+I APPLE
+F BANANA
+I banana
+I banana
+I PEACH
+I apple
+I BANANA
+E
+N
+F banana
+F BANANA
+I BANANA
+I apple
+I CHERRY
+I APPLE
+I peach
+F PEACH
+G cherry
+N
+E
+F cherry
+O
+O
+F PEACH
+N
+G APPLE
+E
+O
+E
+R APPLE
+F APPLE
+O
+R CHERRY
+I PEACH
+I cherry
+I PEACH
+X
+E
+O
+N
+I CHERRY
+I banana
+I banana
+I BANANA
+I cherry
+E
+N
+I CHERRY
+N
+N
+X
+E
+R PEACH
+E
+N
+O
+E
+E
+O
+F BANANA
+N
+R BANANA
+O
+E
+G APPLE
+E
+E
+O
+F CHERRY
+I banana
+I banana
+I peach
+I cherry
+I APPLE
+N
+R peach
+E
+G apple
+E
+G CHERRY
+F peach
+R cherry
+N
+F PEACH
+O
+F APPLE
+O
+O
+O
+R CHERRY
+F banana
+G apple
+N
+N
+E
+I PEACH
+I CHERRY
+R BANANA
+E
+R banana
+N
+N
+F PEACH
+N
+E
+F CHERRY
+I peach
+O
+N
+F BANANA
+F apple
+R cherry
+O
+E
+N
+R apple
+I BANANA
+E
+E
+N
+O
+E
+I banana
+I cherry
+I APPLE
+I peach
+R apple
+E
+G BANANA
+R cherry
+G banana
+O
+G banana
+R cherry
+N
+E
+F cherry
+I BANANA
+I PEACH
+I apple
+I banana
+I banana
+I apple
+O
+O
+R apple
+E
+E
+N
+R banana
+E
+N
+O
+F apple
+O
+N
+G cherry
+R CHERRY
+E
+F apple
+N
+C
+F peach
+E
+R banana
+N
+I peach
+I cherry
+I CHERRY
+I cherry
+I apple
+I apple
+I apple
+I BANANA
+I banana
+I CHERRY
+F apple
+E
+G cherry
+N
+F cherry
+R BANANA
+E
+I apple
+R banana
+E
+O
+E
+R APPLE
+F BANANA
+O
+E
+G peach
+N
+G APPLE
+N
+F CHERRY
+E
+O
+G CHERRY
+I apple
+I BANANA
+I APPLE
+I peach
+I CHERRY
+I APPLE
+R cherry
+E
+O
+G apple
+O
+F peach
+F cherry
+N
+N
+R CHERRY
+F APPLE
+E
+O
+C
+G cherry
+E
+N
+E
+R peach
+I APPLE
+R APPLE
+F cherry
+O
+R PEACH
+F cherry
+O
+R peach
+G PEACH
+E
+E
+F banana
+E
+F APPLE
+E
+I banana
+I cherry
+I BANANA
+I cherry
+I banana
+I cherry
+I CHERRY
+I CHERRY
+F APPLE
+I PEACH
+I BANANA
+I apple
+R cherry
+G APPLE
+O
+I peach
+D
+C
+E
+G peach
+G apple
+G BANANA
+I apple
+I BANANA
+I APPLE
+C
+R banana
+N
+I CHERRY
+I BANANA
+I banana
+I cherry
+O
+G APPLE
+I APPLE
+D
+C
+F BANANA
+I apple
+I banana
+I peach
+I cherry
+I PEACH
+D
+N
+I apple
+I banana
+N
+O
+I banana
+I CHERRY
+I APPLE
+I peach
+I PEACH
+I BANANA
+C
+N
+N
+G BANANA
+C
+I PEACH
+I cherry
+D
+O
+G BANANA
+E
+G BANANA
+G peach
+R PEACH
+R banana
+G BANANA
+I CHERRY
+I APPLE
+I CHERRY
+I CHERRY
+I PEACH
+D
+C
+E
+R PEACH
+F CHERRY
+O
+X
+N
+G apple
+O
+N
+R banana
+E
+R banana
+N
+E
+E
+R apple
+E
+G APPLE
+G peach
+N
+G BANANA
+F banana
+O
+N
+G BANANA
+O
+N
+I PEACH
+I APPLE
+C
+E
+E
+F CHERRY
+N
+C
+F cherry
+R banana
+I cherry
+I APPLE
+O
+I apple
+I CHERRY
+I apple
+N
+F banana
+N
+R CHERRY
+O
+G PEACH
+F CHERRY
+F BANANA
+E
+F BANANA
+G apple
+O
+X
+E
+R cherry
+O
+N
+F banana
+E
+O
+F peach
+O
+I BANANA
+I BANANA
+I apple
+I cherry
+I BANANA
+I peach
+I APPLE
+I banana
+I CHERRY
+I PEACH
+I banana
+I cherry
+I peach
+I banana
+I peach
+I banana
+N
+G CHERRY
+E
+O
+I APPLE
+I cherry
+I CHERRY
+I PEACH
+N
+E
+R BANANA
+O
+N
+F PEACH
+I apple
+I APPLE
+I PEACH
+I PEACH
+O
+E
+N
+I BANANA
+I apple
+I BANANA
+I banana
+I CHERRY
+I apple
+I CHERRY
+I apple
+I APPLE
+I cherry
+I CHERRY
+I cherry
+I apple
+I APPLE
+I banana
+I banana
+E
+E
+N
+F peach
+I PEACH
+E
+E
+R APPLE
+R PEACH
+I PEACH
+I cherry
+I peach
+I cherry
+I CHERRY
+I apple
+R apple
+I cherry
+F PEACH
+O
+N
+E
+G peach
+F peach
+F apple
+R peach
+O
+I CHERRY
+X
+I PEACH
+C
+G banana
+R cherry
+G apple
+N
+N
+E
+E
+I cherry
+I cherry
+I apple
+I BANANA
+N
+R PEACH
+N
+E
+I BANANA
+I apple
+I peach
+I BANANA
+R peach
+I BANANA
+I BANANA
+I apple
+I cherry
+I BANANA
+I PEACH
+I peach
+I APPLE
+I APPLE
+I cherry
+I BANANA
+I cherry
+N
+N
+O
+N
+O
+E
+E
+E
+G PEACH
+I CHERRY
+I banana
+R PEACH
+I BANANA
+C
+I apple
+I BANANA
+I CHERRY
+I cherry
+I apple
+I PEACH
+D
+C
+G peach
+F cherry
+O
+G peach
+E
+N
+F BANANA
+G CHERRY
+O
+O
+R CHERRY
+G banana
+N
+E
+E
+R banana
+E
+G peach
+I APPLE
+R apple
+R peach
+N
+R peach
+R apple
+D
+C
+E
+N
+N
+R APPLE
+F APPLE
+N
+I CHERRY
+I banana
+I PEACH
+I BANANA
+I apple
+X
+R banana
+F apple
+O
+E
+O
+C
+F cherry
+R APPLE
+C
+F PEACH
+E
+E
+E
+F apple
+N
+I PEACH
+I cherry
+I banana
+X
+F banana
+F apple
+R apple
+G apple
+R PEACH
+G apple
+F apple
+O
+I APPLE
+I BANANA
+I PEACH
+I CHERRY
+I cherry
+I APPLE
+I cherry
+I CHERRY
+I CHERRY
+I cherry
+R BANANA
+R cherry
+E
+R cherry
+E
+O
+G peach
+N
+O
+O
+E
+I apple
+N
+O
+I CHERRY
+I banana
+D
+C
+I apple
+I BANANA
+I BANANA
+I BANANA
+F banana
+G peach
+I cherry
+I apple
+F APPLE
+O
+N
+R PEACH
+I cherry
+I CHERRY
+I cherry
+I apple
+I peach
+I CHERRY
+I PEACH
+I peach
+I cherry
+I apple
+I apple
+I BANANA
+C
+G APPLE
+I peach
+I peach
+I BANANA
+E
+D
+N
+G BANANA
+D
+C
+O
+G cherry
+O
+N
+R banana
+X
+N
+G apple
+D
+C
+G PEACH
+F apple
+I apple
+I cherry
+I cherry
+I CHERRY
+I APPLE
+I PEACH
+I CHERRY
+O
+E
+E
+G cherry
+F CHERRY
+O
+I cherry
+I PEACH
+D
+C
+R CHERRY
+O
+N
+I CHERRY
+G BANANA
+R APPLE
+E
+N
+R PEACH
+E
+G peach
+F banana
+I cherry
+C
+R peach
+N
+I BANANA
+F cherry
+I BANANA
+I peach
+I peach
+I CHERRY
+X
+F cherry
+E
+G BANANA
+N
+O
+G apple
+F BANANA
+E
+R BANANA
+O
+N
+R CHERRY
+O
+G apple
+G peach
+E
+D
+C
+E
+G peach
+I banana
+I banana
+I apple
+G apple
+E
+O
+E
+G CHERRY
+O
+O
+F BANANA
+I APPLE
+I banana
+I apple
+I apple
+I CHERRY
+I peach
+G APPLE
+R CHERRY
+I APPLE
+E
+D
+C
+N
+I PEACH
+C
+O
+N
+I apple
+I banana
+I PEACH
+N
+N
+N
+E
+F APPLE
+O
+N
+O
+N
+D
+C
+I CHERRY
+I APPLE
+I banana
+I BANANA
+E
+N
+O
+O
+G BANANA
+I cherry
+I BANANA
+F banana
+F BANANA
+O
+N
+E
+R APPLE
+I cherry
+I PEACH
+F CHERRY
+R peach
+N
+N
+F APPLE
+F APPLE
+R apple
+G peach
+G banana
+I CHERRY
+X
+I CHERRY
+I CHERRY
+I BANANA
+I cherry
+I peach
+D
+C
+R BANANA
+O
+X
+R cherry
+F BANANA
+I banana
+I banana
+I apple
+X
+I peach
+C
+G APPLE
+N
+O
+O
+I PEACH
+I APPLE
+I BANANA
+I BANANA
+R peach
+G BANANA
+I CHERRY
+I peach
+I banana
+I PEACH
+I BANANA
+I CHERRY
+I BANANA
+I PEACH
+I peach
+D
+C
+O
+E
+N
+N
+R CHERRY
+E
+N
+R APPLE
+N
+I banana
+I BANANA
+I PEACH
+I PEACH
+I banana
+I APPLE
+I CHERRY
+I CHERRY
+I banana
+I BANANA
+I banana
+I PEACH
+I BANANA
+F cherry
+R banana
+I BANANA
+I PEACH
+I BANANA
+I banana
+I banana
+I CHERRY
+D
+C
+G peach
+I peach
+X
+O
+G cherry
+N
+N
+O
+F CHERRY
+E
+F BANANA
+C
+F banana
+G apple
+G banana
+I peach
+C
+N
+F BANANA
+I PEACH
+I BANANA
+I apple
+I banana
+I PEACH
+I apple
+F PEACH
+E
+R cherry
+F CHERRY
+G BANANA
+O
+F apple
+O
+O
+E
+G CHERRY
+I cherry
+I PEACH
+I CHERRY
+I PEACH
+I apple
+I apple
+I PEACH
+I PEACH
+I APPLE
+I banana
+I APPLE
+I PEACH
+I APPLE
+I CHERRY
+I BANANA
+I BANANA
+I cherry
+I APPLE
+R cherry
+N
+F BANANA
+R BANANA
+E
+N
+E
+R CHERRY
+G BANANA
+R apple
+R PEACH
+G cherry
+E
+N
+E
+G CHERRY
+G APPLE
+F peach
+G APPLE
+G CHERRY
+R PEACH
+G banana
+G CHERRY
+E
+N
+E
+I APPLE
+I APPLE
+I PEACH
+I banana
+I CHERRY
+I apple
+N
+E
+N
+I CHERRY
+I cherry
+I peach
+I cherry
+I apple
+I cherry
+I BANANA
+I cherry
+I peach
+I cherry
+I banana
+I banana
+I BANANA
+X
+E
+G BANANA
+O
+E
+R apple
+G CHERRY
+O
+G PEACH
+E
+I apple
+F CHERRY
+N
+F APPLE
+R peach
+E
+G cherry
+E
+E
+I apple
+I peach
+I peach
+I cherry
+I apple
+I BANANA
+I BANANA
+I BANANA
+I apple
+I peach
+I peach
+I cherry
+I APPLE
+I cherry
+I banana
+I PEACH
+D
+C
+O
+I peach
+I apple
+I BANANA
+I CHERRY
+I BANANA
+I PEACH
+R cherry
+E
+O
+F apple
+O
+N
+R CHERRY
+E
+E
+O
+E
+N
+F APPLE
+O
+G peach
+F peach
+I BANANA
+I banana
+G peach
+G peach
+C
+I PEACH
+I banana
+I banana
+E
+N
+N
+E
+G apple
+R PEACH
+G cherry
+F apple
+R PEACH
+E
+E
+E
+R CHERRY
+E
+E
+I BANANA
+I cherry
+I CHERRY
+I peach
+I CHERRY
+C
+O
+N
+F PEACH
+G cherry
+G PEACH
+F peach
+N
+R BANANA
+O
+E
+E
+O
+C
+N
+E
+O
+N
+I BANANA
+F CHERRY
+F APPLE
+E
+F peach
+I BANANA
+I cherry
+I cherry
+C
+O
+O
+E
+G APPLE
+R cherry
+O
+F PEACH
+E
+O
+N
+F banana
+R BANANA
+E
+E
+G APPLE
+C
+R apple
+G apple
+O
+N
+R cherry
+N
+E
+R BANANA
+O
+O
+N
+E
+N
+N
+N
+F APPLE
+R banana
+E
+R cherry
+N
+G banana
+E
+G CHERRY
+I cherry
+I peach
+I banana
+E
+F APPLE
+E
+I cherry
+I CHERRY
+I CHERRY
+I APPLE
+I peach
+I PEACH
+I APPLE
+I cherry
+O
+R BANANA
+G apple
+O
+F apple
+N
+N
+I CHERRY
+I CHERRY
+I APPLE
+I banana
+I CHERRY
+I peach
+D
+I PEACH
+I peach
+I banana
+I apple
+I BANANA
+I banana
+I peach
+R banana
+F BANANA
+I APPLE
+I apple
+I BANANA
+I PEACH
+I banana
+I PEACH
+I banana
+I cherry
+C
+G CHERRY
+I banana
+I banana
+I apple
+I BANANA
+I apple
+I cherry
+I PEACH
+I banana
+G peach
+G APPLE
+F BANANA
+R APPLE
+E
+G CHERRY
+R PEACH
+I peach
+I BANANA
+I cherry
+I PEACH
+I peach
+I APPLE
+G banana
+I banana
+E
+N
+R peach
+R banana
+O
+F cherry
+G CHERRY
+O
+I apple
+I PEACH
+I cherry
+I BANANA
+I apple
+I banana
+I cherry
+I banana
+I CHERRY
+I APPLE
+G PEACH
+G apple
+N
+R peach
+F PEACH
+O
+F apple
+F CHERRY
+O
+D
+C
+I APPLE
+I APPLE
+I APPLE
+I BANANA
+I peach
+O
+F CHERRY
+R APPLE
+N
+O
+G BANANA
+N
+N
+O
+G BANANA
+E
+G apple
+O
+N
+O
+I banana
+I apple
+I PEACH
+I BANANA
+I cherry
+D
+C
+I banana
+I BANANA
+N
+G PEACH
+E
+F peach
+I banana
+F PEACH
+N
+R CHERRY
+I cherry
+X
+I peach
+G BANANA
+O
+G cherry
+O
+F BANANA
+F BANANA
+G APPLE
+I BANANA
+I banana
+I cherry
+C
+N
+G cherry
+O
+I PEACH
+I peach
+I cherry
+I apple
+C
+I APPLE
+I banana
+I PEACH
+I BANANA
+I peach
+I peach
+I banana
+I cherry
+I cherry
+I peach
+O
+G PEACH
+O
+E
+N
+E
+E
+N
+F peach
+G PEACH
+I BANANA
+R APPLE
+D
+C
+G CHERRY
+I banana
+I peach
+D
+C
+I cherry
+I APPLE
+I PEACH
+I APPLE
+I CHERRY
+I PEACH
+I apple
+I apple
+I PEACH
+I apple
+I cherry
+G banana
+E
+F banana
+N
+D
+X
+I BANANA
+I CHERRY
+I banana
+I APPLE
+I CHERRY
+I peach
+I CHERRY
+X
+E
+E
+I CHERRY
+N
+R CHERRY
+R APPLE
+G BANANA
+F cherry
+I banana
+I CHERRY
+F cherry
+R CHERRY
+D
+C
+D
+C
+N
+I cherry
+I CHERRY
+F BANANA
+O
+O
+R BANANA
+N
+E
+F APPLE
+I banana
+I banana
+F PEACH
+G banana
+G CHERRY
+N
+G cherry
+G BANANA
+I CHERRY
+I BANANA
+I APPLE
+I peach
+I APPLE
+I BANANA
+G CHERRY
+G banana
+O
+G peach
+C
+O
+I PEACH
+N
+I banana
+I cherry
+I apple
+I banana
+I PEACH
+I CHERRY
+I BANANA
+I PEACH
+N
+G CHERRY
+O
+G cherry
+I PEACH
+I cherry
+I apple
+I APPLE
+I peach
+I banana
+I cherry
+O
+O
+G banana
+N
+G CHERRY
+G BANANA
+I cherry
+I BANANA
+N
+E
+E
+E
+N
+N
+I apple
+G apple
+E
+F BANANA
+X
+I apple
+X
+N
+O
+I peach
+I cherry
+I CHERRY
+G peach
+N
+I CHERRY
+I PEACH
+F banana
+R CHERRY
+N
+E
+X
+G apple
+I PEACH
+G CHERRY
+E
+I CHERRY
+I PEACH
+I apple
+I apple
+I banana
+F APPLE
+R banana
+O
+O
+F APPLE
+O
+E
+E
+O
+F banana
+E
+E
+R PEACH
+G cherry
+G BANANA
+R banana
+I cherry
+I cherry
+I cherry
+I PEACH
+D
+C
+I cherry
+I APPLE
+G peach
+R PEACH
+R BANANA
+O
+R apple
+F PEACH
+E
+I cherry
+I CHERRY
+I PEACH
+I cherry
+I apple
+I cherry
+I banana
+D
+N
+E
+N
+F BANANA
+F PEACH
+E
+E
+F APPLE
+O
+F PEACH
+O
+N
+F APPLE
+D
+C
+N
+R peach
+R peach
+N
+E
+O
+E
+G banana
+I banana
+I peach
+I apple
+I cherry
+I CHERRY
+I APPLE
+I banana
+N
+O
+E
+E
+R banana
+E
+N
+F peach
+G PEACH
+F PEACH
+N
+F apple
+I cherry
+I APPLE
+I BANANA
+E
+F BANANA
+N
+R PEACH
+O
+X
+E
+F APPLE
+F banana
+G cherry
+F BANANA
+O
+R PEACH
+G BANANA
+N
+E
+G PEACH
+I banana
+I CHERRY
+I CHERRY
+I cherry
+I banana
+O
+I BANANA
+I cherry
+I peach
+I peach
+I apple
+I banana
+I PEACH
+I cherry
+I APPLE
+N
+N
+O
+O
+I CHERRY
+N
+N
+R BANANA
+E
+F cherry
+F cherry
+N
+O
+F apple
+F CHERRY
+F BANANA
+I CHERRY
+E
+R PEACH
+G banana
+E
+G PEACH
+D
+C
+G banana
+R apple
+E
+O
+R APPLE
+R cherry
+I peach
+I peach
+I cherry
+I peach
+I peach
+G BANANA
+R banana
+E
+N
+R banana
+R APPLE
+E
+N
+I CHERRY
+I banana
+I apple
+I CHERRY
+I PEACH
+G banana
+G CHERRY
+R apple
+E
+I BANANA
+I CHERRY
+I apple
+X
+E
+I PEACH
+I APPLE
+I banana
+I PEACH
+I cherry
+I banana
+I PEACH
+I apple
+I PEACH
+I banana
+I CHERRY
+I peach
+I PEACH
+I CHERRY
+I cherry
+I BANANA
+I cherry
+I APPLE
+I banana
+G APPLE
+E
+N
+G CHERRY
+G apple
+F CHERRY
+G CHERRY
+E
+G CHERRY
+R BANANA
+I PEACH
+I cherry
+I cherry
+I banana
+E
+O
+R APPLE
+R APPLE
+G APPLE
+E
+O
+R peach
+I APPLE
+I cherry
+I banana
+I BANANA
+I banana
+I apple
+I cherry
+I BANANA
+I APPLE
+I banana
+I PEACH
+I banana
+N
+R BANANA
+E
+I banana
+I APPLE
+O
+O
+G CHERRY
+E
+N
+R cherry
+E
+N
+G peach
+N
+I cherry
+I peach
+I cherry
+I APPLE
+I peach
+I PEACH
+E
+I BANANA
+R PEACH
+I cherry
+I apple
+I apple
+I BANANA
+I PEACH
+I PEACH
+I CHERRY
+I peach
+I apple
+I banana
+I banana
+N
+E
+E
+N
+N
+G PEACH
+N
+N
+E
+N
+G apple
+O
+I PEACH
+O
+I cherry
+I PEACH
+I cherry
+X
+I BANANA
+I CHERRY
+I cherry
+I banana
+F apple
+E
+R CHERRY
+G banana
+I PEACH
+N
+O
+N
+E
+F PEACH
+I peach
+I peach
+I apple
+I CHERRY
+I BANANA
+I apple
+I banana
+D
+E
+R apple
+G PEACH
+G APPLE
+I BANANA
+I banana
+I APPLE
+I APPLE
+I peach
+I CHERRY
+I apple
+I cherry
+I cherry
+I banana
+I peach
+I CHERRY
+I BANANA
+E
+F CHERRY
+F BANANA
+X
+O
+N
+F peach
+G PEACH
+O
+E
+F peach
+I CHERRY
+I banana
+I CHERRY
+I banana
+I banana
+G APPLE
+F BANANA
+N
+F BANANA
+G peach
+G PEACH
+I APPLE
+I banana
+I peach
+I CHERRY
+I apple
+I banana
+I APPLE
+I apple
+I apple
+I APPLE
+I banana
+F banana
+N
+O
+I BANANA
+I APPLE
+I PEACH
+I banana
+I BANANA
+I peach
+I APPLE
+I APPLE
+I apple
+I PEACH
+I peach
+O
+G CHERRY
+R PEACH
+N
+R BANANA
+G peach
+N
+N
+O
+I apple
+I cherry
+I peach
+I peach
+I CHERRY
+I PEACH
+I PEACH
+F APPLE
+I CHERRY
+R apple
+R banana
+G banana
+O
+R CHERRY
+N
+E
+F banana
+O
+F PEACH
+I peach
+I PEACH
+O
+I peach
+I BANANA
+E
+F banana
+R cherry
+R CHERRY
+E
+I BANANA
+I BANANA
+I CHERRY
+I cherry
+I APPLE
+I peach
+I apple
+I PEACH
+I CHERRY
+I PEACH
+I peach
+I APPLE
+I peach
+I peach
+F CHERRY
+R CHERRY
+O
+F peach
+N
+E
+N
+I apple
+I cherry
+I banana
+C
+R cherry
+N
+I APPLE
+I banana
+I PEACH
+I cherry
+I PEACH
+I banana
+I cherry
+E
+N
+G APPLE
+O
+O
+N
+O
+O
+G BANANA
+G apple
+O
+D
+C
+R peach
+F apple
+N
+N
+C
+E
+C
+F peach
+G peach
+N
+I PEACH
+X
+F APPLE
+I banana
+I CHERRY
+I PEACH
+I cherry
+F CHERRY
+N
+G banana
+R cherry
+E
+N
+O
+N
+O
+I cherry
+C
+F apple
+G APPLE
+R CHERRY
+G apple
+G cherry
+I peach
+I apple
+I apple
+I PEACH
+I cherry
+G cherry
+R PEACH
+I apple
+I APPLE
+I banana
+X
+F APPLE
+E
+O
+E
+I peach
+I BANANA
+I banana
+I apple
+I cherry
+I peach
+I banana
+I PEACH
+I apple
+I banana
+I peach
+I cherry
+I APPLE
+I PEACH
+I apple
+I apple
+N
+G banana
+N
+F banana
+E
+E
+F cherry
+I CHERRY
+I cherry
+I BANANA
+I cherry
+I cherry
+I cherry
+E
+G banana
+E
+F apple
+I PEACH
+I CHERRY
+N
+F PEACH
+R cherry
+F APPLE
+E
+E
+O
+E
+R BANANA
+R CHERRY
+N
+E
+E
+I CHERRY
+I PEACH
+I APPLE
+I peach
+I banana
+E
+I APPLE
+G APPLE
+F cherry
+R banana
+G apple
+E
+O
+F cherry
+F BANANA
+I APPLE
+I CHERRY
+I BANANA
+I APPLE
+X
+I apple
+I APPLE
+I cherry
+I apple
+I cherry
+I cherry
+I apple
+I APPLE
+I APPLE
+G APPLE
+E
+N
+G APPLE
+N
+I cherry
+I BANANA
+I peach
+I CHERRY
+I apple
+O
+R PEACH
+N
+I banana
+I cherry
+I banana
+F CHERRY
+E
+F cherry
+O
+N
+E
+N
+F CHERRY
+R cherry
+F BANANA
+G BANANA
+R PEACH
+E
+R APPLE
+G banana
+I CHERRY
+I BANANA
+I PEACH
+I banana
+I CHERRY
+I peach
+I CHERRY
+F cherry
+I PEACH
+I PEACH
+I cherry
+I APPLE
+I banana
+I BANANA
+I CHERRY
+I PEACH
+I cherry
+I APPLE
+I banana
+I CHERRY
+I cherry
+I apple
+I banana
+F PEACH
+I banana
+I peach
+I APPLE
+I peach
+I banana
+I cherry
+I banana
+I BANANA
+I APPLE
+I APPLE
+I APPLE
+R peach
+G banana
+O
+I CHERRY
+I PEACH
+I peach
+I apple
+I apple
+I peach
+I CHERRY
+I apple
+X
+E
+O
+R cherry
+G banana
+O
+G PEACH
+F apple
+I cherry
+I CHERRY
+I banana
+I banana
+I BANANA
+I banana
+I apple
+I APPLE
+X
+N
+N
+I BANANA
+I peach
+I APPLE
+I peach
+I banana
+I banana
+I banana
+I BANANA
+X
+R APPLE
+O
+O
+N
+I apple
+I banana
+G CHERRY
+G BANANA
+F banana
+O
+I cherry
+I APPLE
+I apple
+I CHERRY
+I cherry
+I peach
+N
+G CHERRY
+R cherry
+I banana
+I CHERRY
+I BANANA
+N
+G PEACH
+G apple
+I BANANA
+I APPLE
+I APPLE
+G CHERRY
+G BANANA
+E
+F apple
+F PEACH
+I banana
+I BANANA
+I cherry
+I PEACH
+I PEACH
+I PEACH
+I banana
+I CHERRY
+I apple
+I banana
+I BANANA
+I PEACH
+I BANANA
+I BANANA
+D
+C
+E
+G peach
+R peach
+F cherry
+N
+I apple
+I CHERRY
+I apple
+O
+F APPLE
+N
+G APPLE
+F apple
+D
+C
+G peach
+O
+I banana
+I banana
+I banana
+I banana
+I BANANA
+X
+I banana
+I PEACH
+R banana
+N
+N
+R apple
+O
+F APPLE
+E
+E
+E
+I apple
+I banana
+I APPLE
+I CHERRY
+I APPLE
+I APPLE
+G peach
+F CHERRY
+F APPLE
+G BANANA
+C
+R peach
+O
+I peach
+I apple
+I PEACH
+I peach
+I apple
+I peach
+I CHERRY
+D
+C
+G apple
+F cherry
+F CHERRY
+R cherry
+O
+O
+E
+E
+E
+X
+N
+E
+G PEACH
+I peach
+I cherry
+I CHERRY
+I peach
+I peach
+I apple
+I BANANA
+I PEACH
+C
+I APPLE
+I banana
+I apple
+I BANANA
+X
+F peach
+N
+I PEACH
+I peach
+I BANANA
+N
+G banana
+I cherry
+I PEACH
+I peach
+I PEACH
+I apple
+I cherry
+I banana
+F apple
+N
+G banana
+F apple
+N
+I peach
+E
+R cherry
+I cherry
+I banana
+I cherry
+C
+E
+O
+E
+N
+G cherry
+E
+I BANANA
+I APPLE
+I apple
+D
+C
+F apple
+G CHERRY
+E
+E
+E
+N
+F banana
+G BANANA
+N
+G CHERRY
+F BANANA
+G cherry
+F CHERRY
+R peach
+N
+G PEACH
+I PEACH
+I peach
+I CHERRY
+I CHERRY
+N
+E
+N
+E
+E
+O
+N
+I cherry
+E
+C
+F banana
+E
+O
+G cherry
+F peach
+E
+F BANANA
+O
+G PEACH
+F apple
+R APPLE
+F BANANA
+I APPLE
+F apple
+E
+E
+R CHERRY
+O
+E
+E
+O
+N
+N
+F CHERRY
+R PEACH
+R apple
+G cherry
+R apple
+N
+O
+E
+O
+I banana
+I APPLE
+I apple
+I banana
+I CHERRY
+I PEACH
+I PEACH
+I CHERRY
+I APPLE
+G CHERRY
+F banana
+E
+R apple
+E
+N
+O
+N
+R apple
+N
+G PEACH
+R apple
+I APPLE
+X
+E
+R peach
+G apple
+G banana
+O
+E
+N
+O
+I PEACH
+I cherry
+O
+O
+F BANANA
+G CHERRY
+F peach
+I PEACH
+I PEACH
+I apple
+I CHERRY
+I cherry
+I peach
+I apple
+I cherry
+I BANANA
+I BANANA
+R banana
+E
+R apple
+G APPLE
+E
+G CHERRY
+O
+E
+R APPLE
+R BANANA
+N
+I APPLE
+I peach
+I APPLE
+R peach
+I PEACH
+C
+E
+R banana
+G CHERRY
+I APPLE
+I PEACH
+I APPLE
+I APPLE
+I peach
+I banana
+I APPLE
+I BANANA
+I banana
+I APPLE
+I APPLE
+N
+O
+N
+O
+F apple
+F BANANA
+R PEACH
+G apple
+I BANANA
+I banana
+I CHERRY
+I banana
+I PEACH
+I peach
+F PEACH
+N
+E
+I CHERRY
+I peach
+I CHERRY
+X
+D
+C
+O
+R banana
+N
+N
+F CHERRY
+O
+N
+N
+E
+N
+G APPLE
+E
+N
+O
+E
+N
+O
+F apple
+D
+D
+C
+N
+E
+G peach
+O
+R cherry
+O
+G CHERRY
+R cherry
+R apple
+E
+R cherry
+E
+F BANANA
+G BANANA
+I peach
+I banana
+R cherry
+G CHERRY
+I cherry
+I peach
+X
+N
+O
+E
+R banana
+F banana
+G banana
+I cherry
+I BANANA
+I banana
+I CHERRY
+I cherry
+I APPLE
+I BANANA
+I CHERRY
+I apple
+R cherry
+O
+O
+E
+I cherry
+I APPLE
+I peach
+I apple
+O
+E
+X
+I peach
+I PEACH
+I PEACH
+I APPLE
+I banana
+I apple
+G peach
+N
+E
+I BANANA
+I PEACH
+I CHERRY
+I banana
+N
+I BANANA
+I BANANA
+I PEACH
+I PEACH
+I banana
+I CHERRY
+I BANANA
+I cherry
+C
+E
+O
+G PEACH
+E
+F CHERRY
+I CHERRY
+D
+C
+N
+N
+R peach
+R APPLE
+O
+O
+N
+X
+G BANANA
+G peach
+O
+I cherry
+I BANANA
+I cherry
+I cherry
+I peach
+I banana
+I banana
+I banana
+I cherry
+I APPLE
+I PEACH
+I BANANA
+I banana
+I peach
+C
+E
+O
+O
+I peach
+I CHERRY
+I PEACH
+I apple
+R APPLE
+E
+E
+E
+G peach
+O
+I cherry
+I apple
+I banana
+I CHERRY
+I APPLE
+I peach
+I banana
+I CHERRY
+I CHERRY
+I banana
+I apple
+X
+I apple
+I cherry
+I apple
+I CHERRY
+I CHERRY
+I apple
+G apple
+R CHERRY
+N
+C
+N
+I APPLE
+I cherry
+I APPLE
+I CHERRY
+I CHERRY
+I APPLE
+I peach
+G CHERRY
+E
+F BANANA
+R banana
+G BANANA
+E
+O
+G banana
+N
+R cherry
+N
+O
+R cherry
+F peach
+O
+N
+I CHERRY
+R CHERRY
+F cherry
+X
+O
+R peach
+R peach
+G apple
+I apple
+I BANANA
+I BANANA
+I BANANA
+I BANANA
+X
+E
+F PEACH
+G APPLE
+E
+I cherry
+I APPLE
+I APPLE
+G PEACH
+F peach
+N
+O
+O
+N
+I peach
+I cherry
+R CHERRY
+O
+N
+E
+N
+E
+I peach
+I peach
+I APPLE
+I APPLE
+I cherry
+I cherry
+F PEACH
+G banana
+O
+O
+N
+F peach
+E
+O
+G banana
+O
+I peach
+I CHERRY
+I cherry
+I peach
+I BANANA
+I peach
+I BANANA
+I BANANA
+I BANANA
+I peach
+I CHERRY
+I CHERRY
+I BANANA
+I PEACH
+I CHERRY
+O
+O
+R apple
+E
+E
+E
+E
+E
+I cherry
+I APPLE
+I apple
+I CHERRY
+O
+O
+I CHERRY
+I CHERRY
+I apple
+O
+G APPLE
+G CHERRY
+I banana
+I PEACH
+N
+I apple
+I banana
+I APPLE
+I BANANA
+I CHERRY
+I APPLE
+I banana
+I CHERRY
+I APPLE
+I CHERRY
+I APPLE
+I apple
+N
+G CHERRY
+F banana
+O
+O
+G cherry
+N
+O
+R CHERRY
+G banana
+N
+F cherry
+I apple
+I banana
+I PEACH
+I PEACH
+N
+F banana
+I APPLE
+I CHERRY
+I peach
+I BANANA
+O
+G cherry
+I peach
+I peach
+I peach
+I peach
+I BANANA
+I apple
+I APPLE
+E
+E
+E
+F apple
+O
+F cherry
+R apple
+F CHERRY
+D
+C
+E
+N
+O
+R apple
+F peach
+F banana
+E
+O
+F CHERRY
+R peach
+O
+R banana
+R cherry
+I cherry
+I CHERRY
+I banana
+G cherry
+F banana
+N
+E
+I apple
+E
+R peach
+I peach
+C
+G CHERRY
+O
+O
+N
+O
+N
+O
+E
+E
+F APPLE
+I peach
+C
+O
+O
+R peach
+I PEACH
+E
+F BANANA
+I CHERRY
+I cherry
+I APPLE
+I cherry
+I BANANA
+I apple
+D
+C
+I cherry
+G APPLE
+E
+R apple
+I cherry
+I PEACH
+I apple
+I cherry
+I apple
+I BANANA
+I banana
+E
+I banana
+I CHERRY
+I CHERRY
+F peach
+F apple
+G cherry
+I banana
+I cherry
+I apple
+C
+F cherry
+G BANANA
+G CHERRY
+I cherry
+I BANANA
+I peach
+I APPLE
+I apple
+I PEACH
+I BANANA
+O
+G PEACH
+I CHERRY
+I PEACH
+I BANANA
+I banana
+I cherry
+I APPLE
+I banana
+X
+I banana
+I peach
+I BANANA
+C
+I cherry
+I BANANA
+I CHERRY
+I APPLE
+I banana
+I CHERRY
+I apple
+I APPLE
+I CHERRY
+I peach
+I apple
+I CHERRY
+I CHERRY
+I APPLE
+N
+N
+G peach
+E
+I cherry
+I cherry
+I apple
+I CHERRY
+I cherry
+I APPLE
+I BANANA
+I peach
+I peach
+X
+F PEACH
+F cherry
+F BANANA
+O
+F banana
+E
+O
+O
+G CHERRY
+O
+G APPLE
+O
+O
+N
+F peach
+O
+G PEACH
+E
+N
+E
+F BANANA
+I BANANA
+I banana
+I apple
+I banana
+R apple
+E
+I BANANA
+I APPLE
+I CHERRY
+I apple
+I CHERRY
+I APPLE
+I APPLE
+I CHERRY
+I APPLE
+I CHERRY
+I banana
+X
+F PEACH
+G banana
+O
+O
+F PEACH
+I BANANA
+I PEACH
+I PEACH
+I cherry
+I cherry
+I BANANA
+I APPLE
+I banana
+I banana
+I PEACH
+O
+G cherry
+E
+G cherry
+O
+I BANANA
+I PEACH
+I peach
+I BANANA
+I apple
+I cherry
+R CHERRY
+F banana
+G PEACH
+I APPLE
+I cherry
+C
+I cherry
+I APPLE
+X
+O
+O
+F CHERRY
+G CHERRY
+I CHERRY
+C
+G APPLE
+R PEACH
+N
+F BANANA
+O
+E
+G apple
+N
+E
+F apple
+I BANANA
+I PEACH
+I banana
+G peach
+I PEACH
+I cherry
+I PEACH
+I cherry
+I peach
+I banana
+F CHERRY
+I peach
+I CHERRY
+F banana
+E
+N
+E
+O
+E
+I banana
+I APPLE
+I apple
+I CHERRY
+I PEACH
+I CHERRY
+I cherry
+I banana
+I CHERRY
+G peach
+G APPLE
+I CHERRY
+I CHERRY
+I PEACH
+R APPLE
+E
+I PEACH
+C
+O
+G peach
+R peach
+E
+G BANANA
+N
+E
+I cherry
+I BANANA
+I BANANA
+I BANANA
+I cherry
+R CHERRY
+G APPLE
+E
+I apple
+I APPLE
+F cherry
+E
+G CHERRY
+G peach
+N
+R PEACH
+G peach
+N
+E
+I CHERRY
+I BANANA
+I cherry
+R apple
+N
+O
+E
+I banana
+I apple
+I CHERRY
+I apple
+I PEACH
+I BANANA
+I APPLE
+I BANANA
+I BANANA
+G banana
+R apple
+R apple
+I PEACH
+I PEACH
+C
+N
+G CHERRY
+G APPLE
+F banana
+O
+G PEACH
+N
+E
+G PEACH
+N
+I banana
+I BANANA
+N
+N
+F CHERRY
+F PEACH
+N
+I banana
+I banana
+I PEACH
+I BANANA
+I cherry
+C
+G BANANA
+R PEACH
+G cherry
+G APPLE
+R banana
+I apple
+I BANANA
+E
+I banana
+I apple
+I apple
+I PEACH
+I peach
+I apple
+E
+E
+G APPLE
+F BANANA
+E
+R CHERRY
+G BANANA
+O
+F APPLE
+O
+F banana
+C
+F peach
+G PEACH
+R banana
+I peach
+I CHERRY
+I APPLE
+I cherry
+G peach
+R cherry
+R apple
+G APPLE
+C
+R PEACH
+O
+N
+R PEACH
+I CHERRY
+I CHERRY
+X
+N
+E
+E
+F peach
+R CHERRY
+O
+N
+I BANANA
+D
+C
+F cherry
+F cherry
+F BANANA
+N
+R cherry
+N
+E
+F peach
+F banana
+R apple
+G cherry
+G APPLE
+G APPLE
+I APPLE
+I banana
+N
+F PEACH
+N
+R CHERRY
+R peach
+O
+I BANANA
+I peach
+I banana
+G cherry
+E
+I CHERRY
+I BANANA
+D
+C
+O
+G BANANA
+F apple
+F BANANA
+G banana
+G banana
+O
+N
+N
+I CHERRY
+I peach
+I banana
+I CHERRY
+I peach
+I BANANA
+I apple
+I banana
+I peach
+I CHERRY
+I banana
+I APPLE
+I BANANA
+I CHERRY
+I APPLE
+I APPLE
+I PEACH
+I banana
+I BANANA
+I BANANA
+I APPLE
+R banana
+E
+N
+I APPLE
+I apple
+D
+R peach
+N
+N
+N
+O
+O
+F banana
+G PEACH
+I cherry
+I cherry
+E
+R APPLE
+N
+I cherry
+I BANANA
+I BANANA
+I peach
+I apple
+I cherry
+E
+N
+R APPLE
+G banana
+E
+G PEACH
+R cherry
+O
+R banana
+N
+O
+G cherry
+I PEACH
+I PEACH
+I BANANA
+I PEACH
+I APPLE
+I cherry
+I banana
+I cherry
+I cherry
+I apple
+I BANANA
+R apple
+E
+F CHERRY
+O
+R BANANA
+N
+O
+E
+F banana
+N
+O
+E
+E
+R cherry
+F APPLE
+R peach
+O
+G cherry
+C
+N
+O
+O
+N
+I APPLE
+I PEACH
+I APPLE
+I cherry
+I apple
+I peach
+X
+F banana
+R BANANA
+I BANANA
+I banana
+I APPLE
+I APPLE
+I cherry
+I APPLE
+I peach
+I BANANA
+I apple
+C
+G banana
+I cherry
+I PEACH
+I banana
+C
+O
+F CHERRY
+F PEACH
+R apple
+I banana
+N
+R APPLE
+N
+G APPLE
+E
+E
+N
+O
+F banana
+O
+R peach
+R apple
+F APPLE
+N
+E
+O
+G banana
+R banana
+G peach
+E
+O
+E
+G BANANA
+F cherry
+O
+O
+R APPLE
+O
+R cherry
+F cherry
+R BANANA
+R APPLE
+O
+F CHERRY
+I peach
+I peach
+I CHERRY
+N
+R BANANA
+O
+N
+N
+N
+I BANANA
+I cherry
+I CHERRY
+I PEACH
+D
+C
+D
+R peach
+I CHERRY
+I banana
+I cherry
+I PEACH
+I PEACH
+I PEACH
+R banana
+E
+I CHERRY
+I APPLE
+I cherry
+I cherry
+I BANANA
+I CHERRY
+I PEACH
+X
+E
+N
+R PEACH
+G CHERRY
+F cherry
+G BANANA
+O
+N
+G peach
+G cherry
+G PEACH
+G APPLE
+O
+O
+G CHERRY
+O
+N
+R BANANA
+R banana
+G banana
+I BANANA
+I peach
+I BANANA
+I CHERRY
+I apple
+I BANANA
+I PEACH
+I BANANA
+I CHERRY
+I APPLE
+X
+R APPLE
+G PEACH
+F peach
+E
+I BANANA
+D
+C
+O
+I peach
+I CHERRY
+I peach
+I banana
+I apple
+I apple
+I CHERRY
+I banana
+I CHERRY
+I CHERRY
+X
+O
+O
+X
+I peach
+I apple
+I cherry
+R banana
+N
+O
+N
+E
+I APPLE
+X
+O
+F APPLE
+E
+E
+E
+N
+I cherry
+I cherry
+I BANANA
+I apple
+C
+F apple
+N
+E
+F CHERRY
+G peach
+R apple
+E
+O
+I PEACH
+I CHERRY
+X
+E
+N
+E
+I PEACH
+I peach
+I PEACH
+I PEACH
+I PEACH
+I BANANA
+I PEACH
+O
+F cherry
+E
+F BANANA
+G apple
+R cherry
+N
+X
+E
+G cherry
+F CHERRY
+I peach
+F cherry
+R APPLE
+G apple
+F APPLE
+O
+F banana
+R PEACH
+O
+G CHERRY
+I cherry
+I PEACH
+I peach
+I APPLE
+C
+I CHERRY
+R PEACH
+N
+I CHERRY
+I cherry
+I banana
+O
+E
+N
+N
+I PEACH
+I APPLE
+I apple
+I cherry
+N
+F CHERRY
+O
+R PEACH
+O
+O
+R apple
+G APPLE
+R apple
+R CHERRY
+D
+I peach
+X
+N
+E
+D
+C
+I apple
+I peach
+I PEACH
+I cherry
+E
+N
+N
+I APPLE
+E
+F peach
+O
+N
+R CHERRY
+G banana
+R peach
+N
+E
+N
+N
+C
+I APPLE
+I PEACH
+R peach
+G cherry
+R peach
+I PEACH
+I PEACH
+I BANANA
+I apple
+I cherry
+I banana
+I cherry
+I peach
+I peach
+I BANANA
+I peach
+I CHERRY
+I cherry
+I BANANA
+I BANANA
+I peach
+I apple
+I peach
+I CHERRY
+G APPLE
+R apple
+N
+N
+E
+F banana
+G apple
+I BANANA
+I BANANA
+O
+O
+I cherry
+I PEACH
+I APPLE
+I PEACH
+I apple
+I PEACH
+I BANANA
+I banana
+I banana
+F peach
+N
+N
+F PEACH
+I cherry
+I BANANA
+I BANANA
+I banana
+I CHERRY
+I BANANA
+I APPLE
+I cherry
+I banana
+I apple
+I apple
+I PEACH
+N
+F BANANA
+I peach
+I banana
+N
+R apple
+R APPLE
+R PEACH
+R peach
+O
+O
+R peach
+O
+E
+I banana
+I APPLE
+N
+G BANANA
+I BANANA
+C
+F BANANA
+R APPLE
+F banana
+O
+F cherry
+N
+N
+G apple
+O
+E
+N
+F cherry
+E
+O
+R peach
+I peach
+I cherry
+R cherry
+N
+G BANANA
+O
+F PEACH
+R APPLE
+I BANANA
+I apple
+I PEACH
+I peach
+I CHERRY
+I APPLE
+I PEACH
+I peach
+I CHERRY
+I peach
+O
+F apple
+E
+R APPLE
+F CHERRY
+O
+N
+E
+O
+F BANANA
+O
+I banana
+I CHERRY
+G BANANA
+E
+N
+R apple
+R APPLE
+E
+F banana
+I banana
+I peach
+G CHERRY
+G cherry
+I apple
+D
+C
+E
+E
+N
+G CHERRY
+I peach
+I peach
+I CHERRY
+I apple
+I peach
+I peach
+I CHERRY
+I apple
+I APPLE
+E
+I peach
+I BANANA
+I BANANA
+I BANANA
+I peach
+R cherry
+N
+E
+O
+R apple
+I PEACH
+I banana
+I cherry
+I APPLE
+I BANANA
+C
+R PEACH
+F BANANA
+F APPLE
+G peach
+F cherry
+I BANANA
+I cherry
+I cherry
+C
+G banana
+F apple
+G banana
+O
+N
+N
+O
+G APPLE
+E
+R banana
+I PEACH
+I BANANA
+E
+F banana
+F PEACH
+I BANANA
+I CHERRY
+I PEACH
+E
+G PEACH
+F cherry
+G BANANA
+G CHERRY
+I CHERRY
+I banana
+I peach
+I cherry
+I APPLE
+I CHERRY
+O
+E
+O
+I BANANA
+I BANANA
+I cherry
+I BANANA
+I apple
+R BANANA
+R cherry
+F CHERRY
+N
+I cherry
+I CHERRY
+I APPLE
+I APPLE
+G cherry
+O
+R APPLE
+F PEACH
+N
+F BANANA
+G apple
+R cherry
+O
+I APPLE
+D
+C
+I APPLE
+I banana
+I CHERRY
+I cherry
+I banana
+I APPLE
+I cherry
+I peach
+I CHERRY
+I banana
+I banana
+X
+R PEACH
+I apple
+I apple
+I peach
+G BANANA
+R apple
+N
+E
+I banana
+I peach
+X
+G cherry
+R cherry
+E
+R BANANA
+O
+G apple
+G CHERRY
+N
+G banana
+E
+R BANANA
+R BANANA
+E
+G apple
+O
+I cherry
+X
+E
+N
+F peach
+N
+E
+O
+G peach
+G peach
+C
+N
+G APPLE
+N
+E
+O
+O
+N
+E
+G CHERRY
+R banana
+E
+N
+N
+E
+G banana
+G apple
+I banana
+I BANANA
+G banana
+N
+R apple
+R CHERRY
+O
+N
+E
+E
+E
+R cherry
+N
+O
+R CHERRY
+F BANANA
+E
+F BANANA
+R CHERRY
+E
+I peach
+X
+D
+C
+E
+R apple
+O
+O
+F cherry
+G cherry
+N
+N
+I apple
+C
+O
+O
+I PEACH
+G cherry
+E
+I banana
+I apple
+I cherry
+R APPLE
+I cherry
+I PEACH
+I CHERRY
+I CHERRY
+I PEACH
+I CHERRY
+I apple
+I peach
+I CHERRY
+I BANANA
+I apple
+I BANANA
+O
+I CHERRY
+G APPLE
+R banana
+F banana
+O
+G banana
+N
+R cherry
+N
+G PEACH
+I cherry
+O
+O
+O
+O
+R peach
+G apple
+I CHERRY
+I PEACH
+X
+E
+F apple
+F cherry
+O
+I APPLE
+I banana
+O
+F apple
+I BANANA
+I cherry
+I BANANA
+I PEACH
+I cherry
+I apple
+I CHERRY
+I banana
+I cherry
+I apple
+I cherry
+I APPLE
+I CHERRY
+I banana
+I BANANA
+I apple
+I PEACH
+I cherry
+I APPLE
+I banana
+I PEACH
+I BANANA
+I banana
+I peach
+I APPLE
+I cherry
+I apple
+I banana
+I PEACH
+I BANANA
+I APPLE
+G peach
+I BANANA
+C
+I APPLE
+X
+N
+F APPLE
+F peach
+F BANANA
+X
+I PEACH
+I BANANA
+F banana
+E
+I CHERRY
+I APPLE
+I BANANA
+I CHERRY
+I CHERRY
+I peach
+I cherry
+I BANANA
+I apple
+I BANANA
+F APPLE
+F PEACH
+G CHERRY
+I PEACH
+O
+F CHERRY
+O
+G cherry
+O
+O
+I BANANA
+I CHERRY
+N
+R apple
+N
+G BANANA
+G BANANA
+F cherry
+G apple
+R banana
+D
+C
+F CHERRY
+F BANANA
+I PEACH
+I apple
+O
+N
+D
+C
+N
+I BANANA
+I apple
+I cherry
+N
+N
+G peach
+C
+D
+C
+F BANANA
+E
+R apple
+X
+R APPLE
+F banana
+R peach
+G APPLE
+G CHERRY
+G BANANA
+G APPLE
+F banana
+I cherry
+I peach
+F banana
+I peach
+R BANANA
+O
+R cherry
+N
+I peach
+I banana
+I peach
+I banana
+I peach
+I cherry
+I BANANA
+I BANANA
+C
+E
+I banana
+I BANANA
+R BANANA
+N
+O
+I cherry
+I BANANA
+I apple
+I apple
+I apple
+I APPLE
+I PEACH
+I peach
+I BANANA
+D
+C
+O
+F BANANA
+I APPLE
+I CHERRY
+I APPLE
+I apple
+I PEACH
+O
+F APPLE
+I BANANA
+I BANANA
+I apple
+E
+F CHERRY
+R BANANA
+F BANANA
+E
+N
+R BANANA
+F peach
+F PEACH
+I cherry
+I peach
+I APPLE
+I APPLE
+R APPLE
+F apple
+E
+N
+G BANANA
+F BANANA
+G CHERRY
+R BANANA
+I APPLE
+I peach
+I BANANA
+G peach
+E
+G apple
+N
+G BANANA
+F BANANA
+F banana
+G cherry
+R BANANA
+E
+N
+N
+E
+R APPLE
+F BANANA
+F BANANA
+R banana
+G APPLE
+C
+O
+G PEACH
+E
+O
+E
+G CHERRY
+E
+F APPLE
+O
+R cherry
+G cherry
+E
+R BANANA
+R CHERRY
+G peach
+E
+G APPLE
+O
+O
+N
+I CHERRY
+R banana
+E
+G apple
+R PEACH
+O
+I peach
+I BANANA
+I CHERRY
+I BANANA
+I CHERRY
+I BANANA
+O
+I banana
+N
+F apple
+O
+F CHERRY
+E
+I CHERRY
+I apple
+I cherry
+X
+R banana
+E
+I apple
+I banana
+N
+F peach
+E
+N
+G banana
+E
+F CHERRY
+G PEACH
+F apple
+R CHERRY
+O
+N
+I PEACH
+I banana
+I BANANA
+I banana
+I APPLE
+I PEACH
+G banana
+O
+E
+G banana
+F APPLE
+O
+G APPLE
+I apple
+I APPLE
+I APPLE
+I PEACH
+I APPLE
+G APPLE
+F APPLE
+O
+O
+I CHERRY
+X
+I apple
+I PEACH
+I PEACH
+I banana
+D
+C
+F PEACH
+O
+E
+E
+N
+R PEACH
+N
+R APPLE
+I peach
+I BANANA
+I cherry
+G cherry
+E
+G PEACH
+E
+N
+O
+F banana
+I apple
+I APPLE
+F cherry
+G banana
+R APPLE
+F peach
+I CHERRY
+D
+C
+O
+O
+N
+E
+R CHERRY
+F apple
+N
+R banana
+O
+N
+R PEACH
+R CHERRY
+F peach
+O
+N
+R BANANA
+I apple
+F banana
+G cherry
+O
+I peach
+I banana
+I BANANA
+F BANANA
+I cherry
+I peach
+G apple
+E
+F APPLE
+I apple
+I CHERRY
+I banana
+I APPLE
+I APPLE
+R PEACH
+F apple
+O
+I APPLE
+I BANANA
+I APPLE
+C
+F apple
+C
+G BANANA
+R cherry
+O
+E
+I BANANA
+D
+R peach
+I PEACH
+I cherry
+I BANANA
+I peach
+I APPLE
+I CHERRY
+R BANANA
+O
+C
+G cherry
+O
+O
+G PEACH
+R apple
+G PEACH
+G BANANA
+G banana
+R apple
+I apple
+I banana
+G banana
+O
+I peach
+I CHERRY
+I PEACH
+I BANANA
+I banana
+I APPLE
+I PEACH
+I banana
+I cherry
+I banana
+I banana
+C
+F CHERRY
+G PEACH
+G peach
+F banana
+X
+F apple
+O
+I cherry
+I APPLE
+I CHERRY
+I peach
+I CHERRY
+I peach
+I apple
+I apple
+I peach
+I CHERRY
+I CHERRY
+I CHERRY
+I peach
+I PEACH
+I PEACH
+I APPLE
+I apple
+I cherry
+I CHERRY
+C
+F cherry
+O
+R BANANA
+E
+F APPLE
+G peach
+I BANANA
+E
+I CHERRY
+I CHERRY
+I peach
+C
+I PEACH
+I PEACH
+I banana
+I CHERRY
+I PEACH
+E
+I cherry
+I cherry
+G banana
+N
+G cherry
+E
+F peach
+F banana
+O
+N
+R BANANA
+F peach
+I PEACH
+I CHERRY
+R CHERRY
+E
+I apple
+E
+O
+I BANANA
+I CHERRY
+I BANANA
+I CHERRY
+O
+O
+X
+E
+I BANANA
+I CHERRY
+I apple
+I cherry
+I banana
+R apple
+O
+E
+R peach
+E
+G apple
+N
+E
+E
+F CHERRY
+G peach
+G BANANA
+I CHERRY
+O
+X
+F apple
+I apple
+I apple
+I cherry
+I APPLE
+O
+G APPLE
+O
+N
+E
+E
+I APPLE
+I BANANA
+I APPLE
+I CHERRY
+I peach
+R APPLE
+N
+N
+N
+G banana
+N
+I APPLE
+I banana
+I peach
+I cherry
+I apple
+X
+D
+C
+N
+F peach
+E
+G cherry
+R cherry
+O
+G APPLE
+F cherry
+R CHERRY
+I banana
+N
+G cherry
+G BANANA
+N
+I CHERRY
+I APPLE
+I PEACH
+I APPLE
+F BANANA
+F cherry
+F BANANA
+O
+N
+G BANANA
+F CHERRY
+R peach
+C
+N
+G APPLE
+E
+O
+E
+E
+R banana
+N
+F APPLE
+N
+R CHERRY
+R PEACH
+G BANANA
+E
+R peach
+R cherry
+G APPLE
+G CHERRY
+R banana
+R peach
+N
+F PEACH
+I peach
+O
+D
+C
+I BANANA
+X
+G peach
+N
+N
+I cherry
+I CHERRY
+I APPLE
+I APPLE
+I peach
+I APPLE
+I PEACH
+I BANANA
+I banana
+I peach
+I apple
+I apple
+I BANANA
+I banana
+I peach
+I peach
+I CHERRY
+G BANANA
+F banana
+E
+F cherry
+I PEACH
+I apple
+I PEACH
+I BANANA
+I CHERRY
+I cherry
+I PEACH
+I banana
+I cherry
+D
+E
+O
+R apple
+R APPLE
+I apple
+I PEACH
+I PEACH
+I APPLE
+I peach
+I apple
+I banana
+I CHERRY
+R BANANA
+O
+N
+O
+N
+O
+F banana
+G apple
+D
+C
+O
+E
+F apple
+O
+E
+R banana
+F CHERRY
+G cherry
+G apple
+G cherry
+N
+G apple
+I cherry
+I BANANA
+I PEACH
+G PEACH
+I apple
+D
+C
+I PEACH
+I CHERRY
+I peach
+I CHERRY
+D
+C
+X
+O
+N
+N
+O
+O
+F apple
+O
+O
+E
+F apple
+N
+G APPLE
+R BANANA
+X
+N
+G BANANA
+O
+N
+R PEACH
+O
+G PEACH
+O
+R CHERRY
+I PEACH
+I CHERRY
+I banana
+I apple
+I BANANA
+I banana
+I PEACH
+I BANANA
+I peach
+C
+E
+O
+R banana
+N
+E
+E
+G cherry
+O
+E
+E
+F cherry
+E
+G apple
+F CHERRY
+R banana
+I banana
+I APPLE
+I peach
+I BANANA
+I cherry
+I peach
+I PEACH
+I PEACH
+I cherry
+I APPLE
+I peach
+X
+N
+I PEACH
+I CHERRY
+I APPLE
+I PEACH
+I cherry
+I APPLE
+I CHERRY
+I BANANA
+I BANANA
+I PEACH
+E
+I PEACH
+D
+C
+R apple
+G cherry
+N
+O
+R peach
+N
+G cherry
+R BANANA
+F peach
+G apple
+I apple
+X
+G apple
+N
+N
+O
+G peach
+E
+R APPLE
+N
+I cherry
+I APPLE
+X
+N
+R banana
+N
+G PEACH
+R APPLE
+I cherry
+I cherry
+I PEACH
+I banana
+F cherry
+O
+E
+G banana
+E
+F APPLE
+E
+E
+E
+R peach
+E
+G APPLE
+R CHERRY
+O
+O
+O
+N
+R PEACH
+N
+G PEACH
+E
+F apple
+N
+E
+E
+R banana
+N
+I APPLE
+I BANANA
+I PEACH
+I APPLE
+I CHERRY
+I peach
+I banana
+I banana
+I peach
+I peach
+I APPLE
+F CHERRY
+F cherry
+F apple
+N
+E
+E
+O
+I PEACH
+I cherry
+I PEACH
+I banana
+O
+G peach
+I banana
+I CHERRY
+I banana
+I PEACH
+I APPLE
+I PEACH
+I peach
+I PEACH
+I cherry
+I apple
+I CHERRY
+I APPLE
+C
+E
+O
+I peach
+I cherry
+I apple
+I peach
+I peach
+D
+C
+E
+G PEACH
+R banana
+G CHERRY
+I apple
+I CHERRY
+I cherry
+R apple
+I apple
+O
+I CHERRY
+I banana
+I cherry
+I PEACH
+I cherry
+O
+F apple
+N
+N
+E
+F peach
+R BANANA
+E
+I banana
+I BANANA
+I APPLE
+C
+F CHERRY
+N
+I peach
+I cherry
+I peach
+I apple
+D
+C
+I PEACH
+I apple
+O
+N
+F apple
+N
+F cherry
+N
+R APPLE
+R peach
+R peach
+E
+E
+E
+N
+E
+N
+R apple
+G CHERRY
+E
+G PEACH
+N
+E
+O
+C
+O
+E
+G APPLE
+O
+E
+I apple
+I cherry
+I CHERRY
+I peach
+I APPLE
+I apple
+I CHERRY
+I APPLE
+I APPLE
+I banana
+I PEACH
+I peach
+X
+E
+N
+O
+E
+F apple
+R BANANA
+F cherry
+O
+O
+G APPLE
+E
+F apple
+G banana
+I peach
+I APPLE
+I banana
+I apple
+E
+O
+F BANANA
+N
+N
+N
+E
+F cherry
+I BANANA
+I banana
+O
+R peach
+G apple
+E
+F BANANA
+N
+G BANANA
+N
+F cherry
+N
+I APPLE
+I BANANA
+R peach
+O
+E
+R BANANA
+O
+O
+N
+O
+O
+R APPLE
+R PEACH
+I banana
+D
+C
+X
+I banana
+I peach
+X
+G apple
+N
+O
+F BANANA
+R peach
+G banana
+X
+X
+N
+N
+I banana
+I APPLE
+I CHERRY
+I CHERRY
+I banana
+I APPLE
+I apple
+F apple
+F banana
+G BANANA
+E
+E
+F PEACH
+F BANANA
+N
+E
+G BANANA
+E
+R cherry
+C
+E
+E
+G apple
+G apple
+N
+N
+E
+F peach
+E
+F APPLE
+I BANANA
+D
+C
+G BANANA
+G peach
+I BANANA
+I BANANA
+I APPLE
+R BANANA
+F peach
+G apple
+I PEACH
+I BANANA
+I banana
+D
+C
+E
+O
+N
+F BANANA
+G cherry
+I cherry
+I APPLE
+I banana
+R CHERRY
+D
+C
+F banana
+I banana
+E
+R BANANA
+R PEACH
+G cherry
+E
+R cherry
+F BANANA
+E
+I banana
+I cherry
+I BANANA
+I apple
+C
+N
+R APPLE
+I CHERRY
+I APPLE
+I apple
+G APPLE
+G APPLE
+N
+N
+E
+R apple
+N
+R BANANA
+I BANANA
+F BANANA
+R apple
+E
+R CHERRY
+G apple
+N
+E
+O
+F banana
+I PEACH
+I peach
+R APPLE
+G APPLE
+E
+F BANANA
+O
+N
+O
+R BANANA
+G CHERRY
+I APPLE
+I BANANA
+I banana
+O
+G banana
+R peach
+I banana
+I banana
+I cherry
+I apple
+I cherry
+I BANANA
+I banana
+C
+R apple
+E
+O
+R APPLE
+F apple
+O
+G PEACH
+O
+R banana
+R APPLE
+G APPLE
+F apple
+F APPLE
+G BANANA
+I APPLE
+C
+O
+O
+R apple
+O
+N
+E
+I banana
+I CHERRY
+I peach
+C
+E
+G banana
+F APPLE
+G peach
+N
+R BANANA
+I banana
+I peach
+I APPLE
+I BANANA
+I peach
+I peach
+I peach
+I apple
+I BANANA
+I apple
+I PEACH
+C
+C
+G CHERRY
+R CHERRY
+E
+R BANANA
+O
+O
+R banana
+R apple
+E
+G BANANA
+O
+I apple
+I cherry
+I BANANA
+I apple
+D
+C
+O
+F cherry
+I apple
+I CHERRY
+I peach
+D
+C
+I PEACH
+I apple
+I banana
+I cherry
+O
+G BANANA
+R BANANA
+F peach
+F peach
+R apple
+R peach
+I banana
+I cherry
+I APPLE
+I apple
+I apple
+I apple
+I cherry
+F BANANA
+G PEACH
+O
+R CHERRY
+R banana
+N
+E
+C
+I apple
+I banana
+N
+I CHERRY
+D
+C
+E
+N
+O
+O
+F apple
+I banana
+I PEACH
+I PEACH
+X
+F apple
+E
+O
+E
+R cherry
+E
+F banana
+O
+O
+N
+N
+F cherry
+F cherry
+R CHERRY
+F banana
+I banana
+F APPLE
+O
+E
+G PEACH
+I APPLE
+X
+E
+O
+F CHERRY
+N
+G CHERRY
+R apple
+F peach
+F apple
+I APPLE
+I apple
+I CHERRY
+I CHERRY
+I PEACH
+N
+F cherry
+I apple
+I apple
+X
+E
+N
+E
+N
+G peach
+F banana
+I CHERRY
+I APPLE
+I BANANA
+G BANANA
+O
+I cherry
+I apple
+I APPLE
+I apple
+F APPLE
+G peach
+I banana
+I APPLE
+I apple
+I banana
+I CHERRY
+I PEACH
+I CHERRY
+N
+N
+E
+F apple
+F PEACH
+G apple
+F PEACH
+E
+O
+F APPLE
+N
+G cherry
+O
+I peach
+I cherry
+N
+G CHERRY
+F PEACH
+I cherry
+G BANANA
+G CHERRY
+R cherry
+G apple
+R cherry
+N
+O
+G peach
+O
+O
+I APPLE
+I cherry
+E
+G CHERRY
+I peach
+I apple
+I banana
+R cherry
+F PEACH
+E
+G BANANA
+R apple
+O
+N
+I APPLE
+I PEACH
+I banana
+I PEACH
+I CHERRY
+I apple
+R CHERRY
+N
+O
+E
+N
+E
+E
+R apple
+R peach
+I banana
+N
+E
+O
+N
+O
+R APPLE
+N
+I PEACH
+I PEACH
+I BANANA
+I cherry
+I peach
+I APPLE
+I PEACH
+I CHERRY
+I peach
+R peach
+N
+F peach
+I CHERRY
+I peach
+I BANANA
+I PEACH
+I CHERRY
+I CHERRY
+O
+G peach
+G peach
+F apple
+G APPLE
+E
+I peach
+I BANANA
+I BANANA
+I apple
+I cherry
+I peach
+I APPLE
+C
+N
+N
+G PEACH
+R apple
+R CHERRY
+I APPLE
+I peach
+I banana
+I apple
+I PEACH
+I APPLE
+I cherry
+F apple
+O
+X
+O
+N
+R apple
+E
+N
+G APPLE
+N
+E
+R banana
+E
+F banana
+R APPLE
+E
+G apple
+G cherry
+I banana
+I cherry
+I CHERRY
+I PEACH
+I apple
+I PEACH
+I peach
+I BANANA
+F BANANA
+F peach
+R apple
+I apple
+I PEACH
+E
+R BANANA
+G peach
+C
+E
+O
+I BANANA
+C
+F banana
+I CHERRY
+G peach
+F cherry
+E
+E
+G banana
+G banana
+N
+F PEACH
+F PEACH
+E
+I BANANA
+I CHERRY
+I apple
+I BANANA
+I banana
+I BANANA
+I cherry
+I PEACH
+I PEACH
+E
+N
+R banana
+N
+G banana
+O
+D
+R BANANA
+E
+I peach
+I peach
+I PEACH
+I peach
+I APPLE
+I PEACH
+E
+F BANANA
+I APPLE
+I CHERRY
+I apple
+E
+O
+E
+F PEACH
+N
+F banana
+I APPLE
+I BANANA
+I PEACH
+I PEACH
+I CHERRY
+E
+R BANANA
+E
+R apple
+E
+N
+R peach
+O
+O
+N
+E
+O
+G cherry
+G PEACH
+F PEACH
+F peach
+I banana
+I banana
+I banana
+I CHERRY
+N
+F peach
+R cherry
+O
+X
+G PEACH
+G peach
+E
+E
+F apple
+E
+C
+E
+I banana
+I BANANA
+I peach
+N
+N
+I peach
+O
+G PEACH
+F apple
+F banana
+G BANANA
+G apple
+I CHERRY
+E
+O
+F banana
+R apple
+E
+F apple
+G PEACH
+O
+O
+O
+X
+R apple
+F peach
+O
+I banana
+I banana
+I apple
+I PEACH
+C
+G APPLE
+I banana
+I banana
+I peach
+C
+N
+F CHERRY
+O
+N
+I APPLE
+C
+F apple
+G peach
+O
+N
+G peach
+I peach
+I apple
+X
+E
+E
+G peach
+R BANANA
+R BANANA
+F peach
+O
+O
+I banana
+I PEACH
+R peach
+E
+E
+R CHERRY
+F apple
+G peach
+G APPLE
+G PEACH
+I banana
+R CHERRY
+O
+R cherry
+O
+I PEACH
+I APPLE
+I apple
+I PEACH
+I apple
+I PEACH
+I apple
+I PEACH
+I peach
+I banana
+C
+E
+G BANANA
+F peach
+X
+I apple
+X
+R BANANA
+E
+E
+E
+X
+N
+E
+R PEACH
+O
+D
+C
+O
+X
+N
+N
+R APPLE
+N
+R BANANA
+F APPLE
+R PEACH
+G banana
+O
+F APPLE
+R banana
+N
+R cherry
+R banana
+I CHERRY
+I APPLE
+F peach
+N
+R banana
+N
+O
+G PEACH
+O
+G apple
+E
+F apple
+I CHERRY
+I PEACH
+I CHERRY
+F cherry
+I apple
+O
+O
+N
+O
+G apple
+G APPLE
+R BANANA
+R APPLE
+I cherry
+I apple
+F banana
+O
+N
+R BANANA
+R CHERRY
+F PEACH
+R peach
+F banana
+G banana
+I peach
+O
+G banana
+G APPLE
+N
+O
+O
+F peach
+E
+O
+F APPLE
+D
+C
+R banana
+I banana
+I BANANA
+I BANANA
+I banana
+I BANANA
+I CHERRY
+O
+R peach
+F PEACH
+R BANANA
+I banana
+I banana
+I apple
+I CHERRY
+F CHERRY
+O
+O
+G apple
+G cherry
+O
+O
+E
+R cherry
+I PEACH
+I BANANA
+I peach
+I APPLE
+I apple
+I cherry
+I peach
+I banana
+I APPLE
+I cherry
+I banana
+I APPLE
+I apple
+I banana
+I apple
+I apple
+I cherry
+I apple
+I APPLE
+I cherry
+I banana
+I APPLE
+I banana
+R BANANA
+E
+F cherry
+E
+O
+R banana
+F PEACH
+O
+O
+R PEACH
+G PEACH
+R apple
+I PEACH
+N
+I BANANA
+I peach
+I banana
+I APPLE
+C
+O
+R banana
+N
+I APPLE
+R PEACH
+G BANANA
+E
+O
+R apple
+R peach
+G peach
+G banana
+N
+E
+E
+F PEACH
+E
+G cherry
+G PEACH
+N
+O
+I CHERRY
+G APPLE
+N
+G banana
+D
+C
+I peach
+I PEACH
+I APPLE
+I PEACH
+I peach
+I banana
+I APPLE
+I peach
+I apple
+O
+F BANANA
+R apple
+E
+F BANANA
+I banana
+I PEACH
+O
+E
+I CHERRY
+I banana
+I APPLE
+I peach
+E
+I APPLE
+I BANANA
+I BANANA
+I PEACH
+I CHERRY
+I BANANA
+I APPLE
+I BANANA
+I CHERRY
+I APPLE
+I APPLE
+I banana
+I banana
+I apple
+I peach
+I PEACH
+I PEACH
+I APPLE
+I apple
+I cherry
+I BANANA
+I APPLE
+I apple
+R CHERRY
+G PEACH
+N
+O
+X
+I cherry
+X
+E
+I apple
+I APPLE
+I peach
+I cherry
+N
+E
+G banana
+E
+X
+X
+O
+I cherry
+I apple
+I APPLE
+I CHERRY
+I peach
+I peach
+N
+I banana
+I apple
+I CHERRY
+I PEACH
+I APPLE
+I cherry
+I APPLE
+I PEACH
+I BANANA
+I cherry
+E
+O
+F apple
+F APPLE
+I CHERRY
+I apple
+I PEACH
+R peach
+I banana
+I banana
+E
+F cherry
+G cherry
+E
+E
+I APPLE
+O
+I cherry
+I apple
+I peach
+I peach
+I APPLE
+I peach
+I peach
+I CHERRY
+I CHERRY
+I banana
+I PEACH
+N
+R cherry
+N
+N
+G BANANA
+X
+E
+E
+G PEACH
+F PEACH
+R BANANA
+I CHERRY
+I banana
+I PEACH
+I apple
+G PEACH
+E
+E
+N
+O
+O
+N
+O
+G cherry
+G peach
+G apple
+I apple
+C
+N
+E
+G apple
+O
+N
+E
+N
+E
+I APPLE
+I BANANA
+D
+O
+O
+I apple
+C
+G cherry
+O
+I cherry
+I BANANA
+I apple
+I peach
+I CHERRY
+I BANANA
+I banana
+I peach
+I PEACH
+N
+F peach
+R CHERRY
+G apple
+O
+D
+O
+O
+E
+R banana
+R CHERRY
+O
+R BANANA
+G BANANA
+E
+G cherry
+R apple
+R cherry
+F APPLE
+N
+F BANANA
+F peach
+I CHERRY
+I peach
+I cherry
+I BANANA
+I PEACH
+I BANANA
+I peach
+I cherry
+I cherry
+I banana
+I PEACH
+I PEACH
+G apple
+O
+E
+F cherry
+G BANANA
+R cherry
+F PEACH
+E
+R banana
+G peach
+O
+E
+F peach
+G BANANA
+I APPLE
+I APPLE
+I APPLE
+I CHERRY
+I BANANA
+I apple
+I BANANA
+I apple
+I banana
+I apple
+E
+N
+G banana
+F BANANA
+O
+R BANANA
+E
+O
+G cherry
+G CHERRY
+I BANANA
+G BANANA
+I apple
+I BANANA
+I BANANA
+I cherry
+I BANANA
+I cherry
+D
+C
+N
+G cherry
+O
+N
+R BANANA
+N
+N
+N
+R PEACH
+E
+G BANANA
+I banana
+I PEACH
+I PEACH
+I PEACH
+I apple
+I banana
+I banana
+I PEACH
+I BANANA
+I apple
+C
+O
+E
+E
+O
+I APPLE
+I cherry
+R apple
+N
+R cherry
+I banana
+I apple
+I apple
+I apple
+I PEACH
+C
+I BANANA
+I banana
+I apple
+I PEACH
+I apple
+I cherry
+I CHERRY
+I CHERRY
+I banana
+I apple
+X
+I CHERRY
+I APPLE
+E
+O
+E
+N
+G banana
+F CHERRY
+O
+N
+E
+G peach
+G apple
+G peach
+N
+O
+N
+I peach
+I banana
+C
+G BANANA
+I APPLE
+X
+O
+R peach
+G cherry
+I apple
+I APPLE
+I BANANA
+I banana
+I apple
+I BANANA
+O
+I cherry
+I APPLE
+I peach
+E
+E
+I PEACH
+I apple
+D
+C
+N
+R apple
+F apple
+E
+R apple
+O
+R cherry
+O
+R cherry
+F apple
+N
+F apple
+G cherry
+O
+G peach
+I peach
+I cherry
+C
+E
+G BANANA
+I BANANA
+I BANANA
+E
+I cherry
+I APPLE
+I apple
+I BANANA
+I banana
+I BANANA
+I APPLE
+I BANANA
+I APPLE
+N
+R peach
+O
+R cherry
+R cherry
+R peach
+F PEACH
+N
+O
+F PEACH
+O
+G apple
+O
+R apple
+G BANANA
+G BANANA
+G BANANA
+E
+N
+R PEACH
+I APPLE
+I CHERRY
+R CHERRY
+I apple
+I cherry
+I apple
+I apple
+I CHERRY
+I apple
+N
+R apple
+N
+R banana
+R banana
+F APPLE
+N
+G CHERRY
+E
+F peach
+F banana
+R peach
+R peach
+O
+I cherry
+I cherry
+I APPLE
+I BANANA
+I PEACH
+I cherry
+I PEACH
+I banana
+I CHERRY
+I banana
+I BANANA
+R banana
+E
+N
+N
+O
+G apple
+F CHERRY
+I apple
+I banana
+I banana
+O
+N
+F apple
+E
+F BANANA
+G banana
+I BANANA
+I apple
+I cherry
+I BANANA
+R CHERRY
+R PEACH
+F BANANA
+O
+N
+O
+N
+G APPLE
+O
+F apple
+F APPLE
+G APPLE
+F banana
+F cherry
+R CHERRY
+O
+N
+G apple
+E
+G cherry
+F APPLE
+O
+N
+I cherry
+I APPLE
+G APPLE
+R PEACH
+I BANANA
+I banana
+I peach
+I APPLE
+I banana
+C
+N
+I apple
+G CHERRY
+I banana
+I banana
+I peach
+D
+C
+F BANANA
+N
+R BANANA
+G APPLE
+I APPLE
+I apple
+I apple
+I apple
+I apple
+I BANANA
+I apple
+I apple
+I BANANA
+I cherry
+I banana
+I CHERRY
+E
+E
+R apple
+I cherry
+I peach
+I APPLE
+I apple
+F CHERRY
+N
+R banana
+N
+I PEACH
+I BANANA
+I apple
+R apple
+N
+I PEACH
+I CHERRY
+I banana
+I banana
+I APPLE
+I PEACH
+I banana
+I BANANA
+I PEACH
+I BANANA
+G APPLE
+E
+I peach
+I peach
+I peach
+I apple
+I CHERRY
+I BANANA
+I peach
+I apple
+D
+C
+F apple
+F APPLE
+I PEACH
+I APPLE
+F BANANA
+I CHERRY
+I PEACH
+I CHERRY
+I apple
+I BANANA
+I BANANA
+I cherry
+I cherry
+I CHERRY
+I APPLE
+I CHERRY
+N
+F peach
+R CHERRY
+G peach
+N
+O
+I APPLE
+I peach
+I cherry
+I APPLE
+N
+F apple
+F cherry
+I PEACH
+I peach
+N
+O
+N
+I PEACH
+I apple
+I banana
+I apple
+I banana
+I PEACH
+I apple
+I BANANA
+I BANANA
+I peach
+I cherry
+I banana
+I apple
+I apple
+I banana
+R CHERRY
+N
+E
+O
+N
+G banana
+O
+N
+I CHERRY
+C
+G BANANA
+F PEACH
+F APPLE
+O
+N
+R BANANA
+I peach
+O
+G BANANA
+I apple
+I CHERRY
+I BANANA
+I BANANA
+R CHERRY
+O
+R banana
+O
+E
+G CHERRY
+G CHERRY
+N
+I APPLE
+G cherry
+E
+R BANANA
+R apple
+O
+N
+O
+R apple
+I PEACH
+G CHERRY
+E
+G BANANA
+O
+F PEACH
+I APPLE
+I peach
+I CHERRY
+I cherry
+N
+E
+O
+E
+C
+E
+O
+F banana
+G PEACH
+O
+I banana
+I apple
+I cherry
+C
+G apple
+F peach
+E
+R CHERRY
+G apple
+O
+O
+N
+O
+R banana
+E
+E
+R peach
+F APPLE
+I CHERRY
+I peach
+I APPLE
+I PEACH
+R banana
+O
+O
+R BANANA
+N
+F BANANA
+E
+E
+N
+I cherry
+I BANANA
+I peach
+I PEACH
+O
+O
+R banana
+N
+D
+C
+G cherry
+N
+F APPLE
+E
+O
+N
+N
+R cherry
+G peach
+N
+E
+R apple
+R cherry
+I APPLE
+I cherry
+I PEACH
+I CHERRY
+D
+C
+F banana
+I cherry
+I cherry
+I CHERRY
+I PEACH
+C
+E
+N
+G CHERRY
+G apple
+I BANANA
+I BANANA
+I banana
+I peach
+I cherry
+I apple
+I APPLE
+I peach
+I APPLE
+I BANANA
+I apple
+I PEACH
+I PEACH
+I PEACH
+N
+F cherry
+I BANANA
+R BANANA
+E
+I apple
+I CHERRY
+C
+I BANANA
+I PEACH
+I PEACH
+E
+N
+D
+C
+E
+I BANANA
+I APPLE
+I peach
+I BANANA
+I banana
+I cherry
+R BANANA
+E
+N
+N
+N
+O
+G APPLE
+E
+D
+C
+G APPLE
+N
+F BANANA
+F peach
+F peach
+N
+O
+I peach
+I banana
+I CHERRY
+I BANANA
+I apple
+I cherry
+I APPLE
+O
+O
+E
+C
+I banana
+R CHERRY
+I CHERRY
+I CHERRY
+I BANANA
+I cherry
+I peach
+I apple
+I apple
+I PEACH
+R APPLE
+G APPLE
+G peach
+F cherry
+R BANANA
+O
+E
+R cherry
+I cherry
+I banana
+I CHERRY
+I CHERRY
+I APPLE
+I apple
+I BANANA
+E
+R cherry
+N
+G APPLE
+O
+N
+N
+I BANANA
+R cherry
+O
+E
+R PEACH
+N
+F apple
+N
+F peach
+F apple
+N
+O
+N
+E
+O
+O
+R APPLE
+F PEACH
+E
+I cherry
+I cherry
+I banana
+I apple
+R banana
+G apple
+O
+I APPLE
+I banana
+E
+I CHERRY
+I apple
+F peach
+F banana
+N
+O
+N
+F apple
+R APPLE
+F APPLE
+R BANANA
+I APPLE
+I PEACH
+I BANANA
+I peach
+I peach
+X
+F cherry
+N
+G BANANA
+N
+E
+N
+E
+I BANANA
+I cherry
+I banana
+R apple
+I banana
+X
+O
+R cherry
+F cherry
+R APPLE
+O
+R BANANA
+E
+E
+O
+E
+N
+G peach
+E
+N
+F cherry
+I CHERRY
+I CHERRY
+I banana
+R CHERRY
+I BANANA
+I CHERRY
+I apple
+I CHERRY
+I BANANA
+I CHERRY
+R CHERRY
+R cherry
+G PEACH
+E
+D
+C
+G banana
+G cherry
+G APPLE
+G peach
+R APPLE
+O
+F CHERRY
+O
+E
+R APPLE
+N
+E
+G CHERRY
+R banana
+I APPLE
+I peach
+I CHERRY
+I PEACH
+I peach
+E
+G banana
+F cherry
+I cherry
+I BANANA
+E
+N
+O
+E
+O
+F CHERRY
+O
+G peach
+I APPLE
+I BANANA
+I CHERRY
+R APPLE
+N
+F peach
+I apple
+D
+I APPLE
+I BANANA
+I banana
+I CHERRY
+I peach
+I banana
+I cherry
+I BANANA
+I CHERRY
+I cherry
+I APPLE
+I PEACH
+I APPLE
+I peach
+I apple
+I APPLE
+I cherry
+I APPLE
+I PEACH
+I APPLE
+I banana
+I banana
+I peach
+I BANANA
+I APPLE
+X
+G APPLE
+G BANANA
+O
+R banana
+F cherry
+R CHERRY
+N
+I BANANA
+I APPLE
+I peach
+I BANANA
+I PEACH
+I apple
+I banana
+I banana
+I apple
+I apple
+D
+C
+I PEACH
+I apple
+F cherry
+G PEACH
+N
+R BANANA
+R banana
+G PEACH
+C
+F peach
+O
+E
+R peach
+G peach
+I cherry
+I BANANA
+I APPLE
+I cherry
+I BANANA
+I CHERRY
+I apple
+I PEACH
+I peach
+I PEACH
+I APPLE
+I BANANA
+N
+F banana
+N
+I BANANA
+I CHERRY
+I apple
+I peach
+I CHERRY
+I APPLE
+G banana
+O
+G apple
+O
+G peach
+N
+E
+G apple
+O
+E
+R PEACH
+N
+N
+G APPLE
+I BANANA
+I PEACH
+I cherry
+I peach
+I apple
+C
+O
+O
+O
+G CHERRY
+F APPLE
+F PEACH
+O
+F banana
+I CHERRY
+N
+I CHERRY
+G PEACH
+N
+F cherry
+F peach
+N
+I PEACH
+I PEACH
+R banana
+F BANANA
+I CHERRY
+I cherry
+I cherry
+N
+G CHERRY
+F CHERRY
+O
+N
+R APPLE
+R APPLE
+G CHERRY
+N
+N
+I BANANA
+I cherry
+E
+I BANANA
+I peach
+I peach
+I banana
+I apple
+I banana
+I PEACH
+I APPLE
+I peach
+I peach
+I CHERRY
+G apple
+F CHERRY
+C
+G apple
+N
+G APPLE
+F APPLE
+G peach
+I banana
+R cherry
+E
+I peach
+I banana
+G cherry
+G PEACH
+I BANANA
+I APPLE
+I PEACH
+R banana
+F peach
+F cherry
+R banana
+F cherry
+N
+G APPLE
+O
+O
+N
+R PEACH
+R PEACH
+F banana
+G PEACH
+R cherry
+G cherry
+F apple
+E
+I CHERRY
+O
+E
+O
+F CHERRY
+R apple
+D
+C
+G APPLE
+I CHERRY
+I PEACH
+I CHERRY
+I cherry
+I APPLE
+I cherry
+I CHERRY
+G banana
+N
+N
+E
+I PEACH
+I peach
+I APPLE
+X
+I peach
+I PEACH
+O
+R cherry
+N
+F banana
+F apple
+G APPLE
+X
+E
+G banana
+F banana
+O
+R peach
+R BANANA
+O
+G CHERRY
+O
+F cherry
+O
+G peach
+O
+N
+R PEACH
+N
+N
+G APPLE
+O
+I peach
+I apple
+I peach
+I BANANA
+I banana
+D
+C
+E
+O
+O
+F CHERRY
+E
+O
+E
+R BANANA
+I banana
+I PEACH
+C
+E
+O
+G BANANA
+F peach
+E
+I CHERRY
+I PEACH
+I APPLE
+O
+F peach
+I BANANA
+N
+E
+O
+G BANANA
+C
+E
+R BANANA
+N
+G PEACH
+N
+E
+G CHERRY
+I cherry
+I peach
+I APPLE
+I peach
+I APPLE
+G banana
+F peach
+N
+N
+N
+O
+N
+G cherry
+N
+N
+F peach
+N
+F BANANA
+I CHERRY
+I BANANA
+D
+X
+D
+E
+F cherry
+R BANANA
+R apple
+I cherry
+I peach
+I peach
+I PEACH
+C
+O
+O
+R banana
+N
+C
+R BANANA
+E
+F banana
+G cherry
+E
+I PEACH
+I BANANA
+I CHERRY
+N
+R CHERRY
+O
+R apple
+F cherry
+F peach
+F BANANA
+G banana
+O
+F banana
+E
+R CHERRY
+R CHERRY
+E
+O
+F peach
+E
+I CHERRY
+I peach
+I apple
+I PEACH
+N
+N
+E
+O
+R cherry
+G CHERRY
+F apple
+N
+G banana
+R banana
+E
+O
+R peach
+I banana
+I PEACH
+D
+C
+E
+R BANANA
+G apple
+O
+F apple
+E
+O
+R BANANA
+F banana
+N
+O
+F apple
+X
+O
+O
+G cherry
+N
+E
+R peach
+E
+I banana
+I APPLE
+I peach
+I banana
+I banana
+I peach
+I banana
+I APPLE
+I cherry
+O
+F CHERRY
+E
+N
+E
+G APPLE
+E
+I banana
+I CHERRY
+I banana
+O
+R cherry
+E
+O
+F BANANA
+O
+R peach
+O
+F PEACH
+E
+E
+N
+O
+F PEACH
+O
+F BANANA
+I BANANA
+I PEACH
+I CHERRY
+I APPLE
+I APPLE
+N
+R apple
+E
+F cherry
+O
+I CHERRY
+E
+I apple
+I apple
+I peach
+I CHERRY
+I PEACH
+I APPLE
+I apple
+I cherry
+I APPLE
+I peach
+E
+R banana
+O
+G CHERRY
+E
+F cherry
+I cherry
+I cherry
+I peach
+I CHERRY
+I banana
+I BANANA
+G apple
+I cherry
+I BANANA
+I CHERRY
+I apple
+I cherry
+I CHERRY
+I peach
+I banana
+I BANANA
+I peach
+E
+O
+N
+D
+C
+O
+E
+O
+E
+F BANANA
+G apple
+R apple
+N
+F CHERRY
+G APPLE
+O
+E
+R CHERRY
+F apple
+N
+F banana
+R PEACH
+O
+E
+I peach
+I cherry
+C
+O
+G CHERRY
+G peach
+I banana
+I BANANA
+I PEACH
+O
+N
+F BANANA
+E
+R banana
+E
+O
+O
+O
+R banana
+G cherry
+R cherry
+N
+R peach
+F APPLE
+N
+E
+F cherry
+E
+N
+I APPLE
+I peach
+I PEACH
+I BANANA
+R apple
+N
+F BANANA
+E
+E
+G APPLE
+O
+O
+G PEACH
+I APPLE
+D
+F BANANA
+E
+R cherry
+E
+N
+R cherry
+R APPLE
+G apple
+R peach
+G apple
+I CHERRY
+I APPLE
+D
+E
+E
+R cherry
+O
+I peach
+I peach
+I cherry
+I cherry
+I PEACH
+I APPLE
+I BANANA
+G PEACH
+F PEACH
+F BANANA
+G CHERRY
+G peach
+I banana
+I banana
+I banana
+R cherry
+E
+F cherry
+G APPLE
+N
+X
+E
+G cherry
+I cherry
+I banana
+X
+O
+F banana
+G banana
+G APPLE
+I CHERRY
+I CHERRY
+I peach
+I APPLE
+I peach
+X
+N
+N
+R banana
+O
+O
+F APPLE
+N
+N
+I BANANA
+I banana
+I BANANA
+I CHERRY
+I CHERRY
+I BANANA
+I CHERRY
+X
+R PEACH
+G banana
+G APPLE
+N
+I banana
+I APPLE
+I CHERRY
+I peach
+I CHERRY
+I CHERRY
+I cherry
+N
+R peach
+O
+G APPLE
+O
+F cherry
+F cherry
+O
+E
+R BANANA
+F CHERRY
+G apple
+I APPLE
+I PEACH
+I apple
+I apple
+I banana
+I PEACH
+X
+R banana
+O
+I cherry
+I PEACH
+I BANANA
+I PEACH
+I APPLE
+I APPLE
+I CHERRY
+I APPLE
+X
+G PEACH
+F PEACH
+I apple
+I apple
+I apple
+I BANANA
+F banana
+G APPLE
+I apple
+I APPLE
+N
+I CHERRY
+X
+N
+N
+N
+N
+D
+C
+R apple
+E
+N
+N
+N
+O
+O
+O
+N
+E
+G APPLE
+N
+N
+I BANANA
+I APPLE
+I cherry
+I peach
+O
+I apple
+I PEACH
+I PEACH
+I BANANA
+I peach
+D
+C
+G cherry
+D
+C
+G cherry
+N
+O
+E
+O
+E
+I banana
+I apple
+I PEACH
+I APPLE
+I peach
+I cherry
+I CHERRY
+I CHERRY
+I PEACH
+I peach
+I BANANA
+I banana
+I apple
+I peach
+I BANANA
+C
+R BANANA
+G BANANA
+I apple
+E
+E
+I PEACH
+I cherry
+I apple
+I APPLE
+F apple
+R apple
+R banana
+I PEACH
+I peach
+I banana
+I peach
+I PEACH
+N
+F apple
+G peach
+R CHERRY
+R CHERRY
+R PEACH
+I APPLE
+I PEACH
+I BANANA
+I BANANA
+I banana
+G CHERRY
+R peach
+N
+O
+R APPLE
+G apple
+R peach
+F banana
+I banana
+I banana
+I PEACH
+N
+N
+N
+F BANANA
+G apple
+O
+I CHERRY
+I cherry
+N
+G APPLE
+N
+N
+G PEACH
+R CHERRY
+N
+E
+G PEACH
+X
+O
+O
+E
+R BANANA
+O
+O
+G banana
+N
+G apple
+G banana
+N
+O
+O
+F PEACH
+N
+I BANANA
+I peach
+I CHERRY
+I APPLE
+I peach
+O
+E
+N
+N
+G banana
+F peach
+F CHERRY
+N
+G peach
+F PEACH
+F banana
+G PEACH
+N
+G peach
+R banana
+N
+E
+I CHERRY
+I peach
+I APPLE
+C
+F apple
+R PEACH
+G apple
+G CHERRY
+O
+R peach
+R PEACH
+G APPLE
+F PEACH
+N
+R PEACH
+E
+O
+E
+N
+E
+O
+F cherry
+N
+E
+F cherry
+G peach
+N
+F peach
+N
+N
+G PEACH
+F BANANA
+F cherry
+I PEACH
+I BANANA
+G peach
+F CHERRY
+E
+O
+G PEACH
+C
+N
+F apple
+N
+I BANANA
+I peach
+I apple
+I peach
+I cherry
+D
+C
+I APPLE
+I peach
+I APPLE
+I CHERRY
+O
+E
+E
+I apple
+I CHERRY
+I banana
+F peach
+I CHERRY
+I apple
+F APPLE
+O
+R banana
+F PEACH
+R PEACH
+N
+E
+N
+N
+R apple
+G PEACH
+R banana
+I cherry
+I apple
+F CHERRY
+G APPLE
+G banana
+R BANANA
+F peach
+E
+F PEACH
+O
+G peach
+E
+O
+R banana
+N
+N
+I peach
+I banana
+I apple
+I CHERRY
+I PEACH
+I BANANA
+I banana
+I APPLE
+I cherry
+G BANANA
+G CHERRY
+X
+G BANANA
+N
+I peach
+I banana
+O
+E
+G peach
+F peach
+F banana
+R APPLE
+N
+E
+O
+F CHERRY
+N
+F PEACH
+I APPLE
+X
+E
+F apple
+N
+E
+E
+O
+N
+F APPLE
+E
+I APPLE
+C
+I CHERRY
+I BANANA
+I PEACH
+C
+R PEACH
+I apple
+I cherry
+E
+N
+F apple
+R banana
+R APPLE
+F BANANA
+E
+F cherry
+G BANANA
+R cherry
+I PEACH
+I PEACH
+I PEACH
+I banana
+I APPLE
+I CHERRY
+I PEACH
+I peach
+I apple
+I peach
+I CHERRY
+I APPLE
+I CHERRY
+R peach
+F apple
+G APPLE
+N
+I peach
+I BANANA
+D
+C
+N
+G BANANA
+O
+G apple
+N
+O
+F apple
+G cherry
+N
+G CHERRY
+N
+O
+R CHERRY
+N
+N
+N
+I APPLE
+I PEACH
+I CHERRY
+I apple
+N
+I BANANA
+I CHERRY
+I PEACH
+D
+X
+O
+O
+I BANANA
+O
+N
+R banana
+D
+C
+R APPLE
+E
+G apple
+G cherry
+R apple
+R peach
+F CHERRY
+O
+G peach
+E
+F peach
+I APPLE
+I peach
+I BANANA
+I peach
+I APPLE
+D
+D
+C
+I cherry
+I PEACH
+I CHERRY
+E
+F banana
+R cherry
+N
+R APPLE
+E
+E
+O
+R APPLE
+F apple
+R cherry
+G peach
+O
+R APPLE
+F APPLE
+G CHERRY
+F PEACH
+N
+F banana
+O
+O
+N
+N
+O
+O
+O
+G apple
+F banana
+R peach
+G PEACH
+O
+I apple
+C
+F PEACH
+G banana
+G BANANA
+I apple
+N
+O
+E
+N
+N
+I cherry
+I CHERRY
+D
+O
+E
+R banana
+E
+F cherry
+E
+E
+O
+I cherry
+I APPLE
+D
+D
+C
+I banana
+I cherry
+E
+R CHERRY
+E
+G BANANA
+O
+E
+O
+E
+G peach
+F APPLE
+O
+O
+N
+O
+G peach
+R banana
+N
+I APPLE
+I peach
+E
+R apple
+E
+R banana
+E
+O
+O
+I PEACH
+I APPLE
+I PEACH
+I PEACH
+I BANANA
+I peach
+I BANANA
+X
+N
+F BANANA
+G cherry
+E
+F banana
+G CHERRY
+F cherry
+I peach
+I cherry
+I apple
+I CHERRY
+I PEACH
+I banana
+I CHERRY
+I APPLE
+I CHERRY
+I cherry
+I banana
+I CHERRY
+I BANANA
+I peach
+I BANANA
+I apple
+I BANANA
+I PEACH
+I BANANA
+I APPLE
+I APPLE
+C
+F PEACH
+G CHERRY
+F BANANA
+N
+F PEACH
+N
+F BANANA
+N
+G BANANA
+N
+O
+O
+R CHERRY
+O
+I CHERRY
+G APPLE
+I CHERRY
+I CHERRY
+I apple
+I peach
+I CHERRY
+I cherry
+I PEACH
+I CHERRY
+I apple
+G PEACH
+E
+O
+E
+G apple
+I apple
+I apple
+I CHERRY
+F cherry
+F APPLE
+E
+G cherry
+O
+R banana
+E
+R cherry
+I CHERRY
+I APPLE
+I APPLE
+I banana
+I APPLE
+I APPLE
+I CHERRY
+I apple
+I peach
+E
+O
+E
+E
+R PEACH
+I banana
+I CHERRY
+I BANANA
+G apple
+N
+R CHERRY
+I CHERRY
+I cherry
+I banana
+I APPLE
+I PEACH
+N
+I cherry
+I banana
+R apple
+I apple
+I APPLE
+C
+E
+G peach
+F banana
+O
+F APPLE
+I banana
+I banana
+I cherry
+R peach
+O
+E
+G CHERRY
+I apple
+I banana
+R CHERRY
+E
+I peach
+I banana
+D
+O
+F apple
+R apple
+E
+F apple
+N
+O
+G BANANA
+F apple
+C
+E
+G apple
+R banana
+O
+F CHERRY
+O
+O
+N
+G BANANA
+R PEACH
+E
+N
+I BANANA
+E
+I CHERRY
+I apple
+I apple
+I BANANA
+I CHERRY
+I apple
+I APPLE
+C
+N
+E
+F PEACH
+N
+G apple
+N
+I BANANA
+I banana
+I BANANA
+D
+C
+I BANANA
+I BANANA
+I BANANA
+X
+R CHERRY
+N
+E
+G banana
+N
+R APPLE
+R CHERRY
+G CHERRY
+I peach
+I cherry
+I PEACH
+I banana
+I APPLE
+I apple
+I CHERRY
+G APPLE
+E
+E
+G banana
+I peach
+I BANANA
+I apple
+I peach
+I BANANA
+I apple
+I APPLE
+I BANANA
+X
+O
+C
+N
+G APPLE
+R banana
+I PEACH
+I APPLE
+R APPLE
+R banana
+R PEACH
+O
+F cherry
+X
+G APPLE
+I PEACH
+I cherry
+I cherry
+F apple
+N
+I BANANA
+I BANANA
+I APPLE
+D
+C
+E
+D
+C
+O
+N
+F CHERRY
+O
+O
+R PEACH
+R cherry
+O
+G cherry
+O
+E
+G banana
+R banana
+N
+O
+I PEACH
+I APPLE
+I APPLE
+X
+G CHERRY
+O
+F banana
+G PEACH
+F CHERRY
+F PEACH
+G PEACH
+F CHERRY
+O
+G APPLE
+N
+R peach
+I CHERRY
+I CHERRY
+I PEACH
+I BANANA
+O
+E
+E
+I APPLE
+I peach
+I PEACH
+I CHERRY
+I CHERRY
+I banana
+O
+N
+G banana
+O
+O
+I cherry
+I CHERRY
+E
+F peach
+N
+G cherry
+E
+G banana
+G CHERRY
+O
+G APPLE
+E
+O
+I cherry
+I BANANA
+I CHERRY
+I APPLE
+I CHERRY
+I peach
+I apple
+I peach
+I banana
+I BANANA
+I peach
+N
+I peach
+G cherry
+E
+D
+C
+N
+G PEACH
+O
+F BANANA
+F APPLE
+G PEACH
+O
+O
+N
+F cherry
+R apple
+G banana
+I APPLE
+I PEACH
+I banana
+E
+N
+O
+O
+G banana
+G peach
+G banana
+R CHERRY
+O
+F banana
+R PEACH
+E
+O
+O
+G apple
+R banana
+G peach
+F cherry
+E
+R CHERRY
+O
+N
+F PEACH
+R peach
+E
+E
+I PEACH
+I apple
+I BANANA
+I CHERRY
+X
+G cherry
+O
+I apple
+I cherry
+I APPLE
+O
+R APPLE
+E
+O
+G peach
+R banana
+N
+I peach
+I apple
+I CHERRY
+I apple
+F cherry
+R PEACH
+R BANANA
+F peach
+G PEACH
+F banana
+E
+R APPLE
+G peach
+E
+N
+F CHERRY
+I BANANA
+I banana
+I PEACH
+R APPLE
+N
+R apple
+R cherry
+F apple
+E
+G banana
+F APPLE
+N
+I PEACH
+I BANANA
+I cherry
+R PEACH
+R cherry
+O
+F BANANA
+N
+O
+R peach
+F BANANA
+I peach
+I banana
+I PEACH
+I PEACH
+I APPLE
+I CHERRY
+I APPLE
+N
+N
+N
+G BANANA
+C
+I apple
+N
+O
+N
+I CHERRY
+I banana
+O
+E
+E
+E
+R cherry
+O
+I apple
+I banana
+D
+F APPLE
+G cherry
+O
+F APPLE
+C
+G banana
+G BANANA
+R APPLE
+E
+I cherry
+I APPLE
+R apple
+I banana
+I APPLE
+I APPLE
+I CHERRY
+I PEACH
+I APPLE
+F apple
+E
+E
+N
+G PEACH
+I BANANA
+I PEACH
+I BANANA
+C
+O
+E
+O
+F peach
+F APPLE
+F PEACH
+N
+I BANANA
+R CHERRY
+O
+E
+F apple
+F banana
+N
+F peach
+N
+O
+F apple
+R apple
+C
+E
+E
+E
+I peach
+I CHERRY
+I apple
+I cherry
+I peach
+O
+O
+I apple
+I APPLE
+I banana
+X
+O
+E
+E
+R cherry
+E
+I peach
+N
+R cherry
+F peach
+F apple
+F PEACH
+N
+G apple
+I peach
+I apple
+I apple
+I PEACH
+I APPLE
+I cherry
+I PEACH
