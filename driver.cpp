@@ -3,6 +3,8 @@
 // load file
 // parse commands
 // apply commands to a tree
+#include "bstree.hpp"
+#include "word.cpp"
 #include <fstream>
 #include <functional>
 #include <iostream>
@@ -13,7 +15,6 @@ int main(int argc, char* argv[]){
 	}else{
     string filename=argv[1];
 		bool running=true;
-		unsigned int temp;
 		ifstream inputFile;
 		while (running){
 			inputFile.open(filename);
@@ -44,13 +45,13 @@ int main(int argc, char* argv[]){
           }else if (nextLine.at(0)=='I'){
             if (tree!=nullptr){
               string y=nextLine.substr(2, 999);
-							Word temp(y)=x;
+							Word x(y);
 							if (tree->find(x)){
 								cout << "WORD " << y << " INCREMENTED\n";
-              }else {
+              } else {
 								cout << "WORD " << y << " INSERTED\n";
 							}
-							tree->insert(temp);
+							tree->insert(x);
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
@@ -58,7 +59,7 @@ int main(int argc, char* argv[]){
             if (tree!=nullptr){
 							if (tree->getNodeCount()>0){
 	              string y=nextLine.substr(2, 999);
-								Word temp(y)=x;
+								Word x(y);
 								if (tree->find(x)){
 									cout << "WORD " << y << " FOUND\n";
 	              }else {
@@ -74,7 +75,7 @@ int main(int argc, char* argv[]){
             if (tree!=nullptr){
 							if (tree->getNodeCount()>0){
 	              string y=nextLine.substr(2, 999);
-								Word temp(y)=x;
+								Word x(y);
 								if (tree->remove(x)){
 									cout << "WORD " << y << " REMOVED\n";
 	              }else {
@@ -88,8 +89,8 @@ int main(int argc, char* argv[]){
 						}
           }else if (nextLine.at(0) == 'N'){
 						if (tree !=nullptr){
-							string y = nextline.substr(2, 999);
-							Word temp(y)=x;
+							string y = nextLine.substr(2, 999);
+							Word x(y);
 							cout <<"GOT "<< y <<  tree->getNodeCount();
 						}else {
 							cout <<"MUST CREATE TREE INSTANCE\n";
@@ -97,22 +98,26 @@ int main(int argc, char* argv[]){
 					}else if (nextLine.at(0)=='G'){
             if (tree!=nullptr){
               string y=nextLine.substr(2, 999);
-							Word temp(y)=x;
-							temp=tree->get(temp);
-							cout << "GOT " << temp.getWord() << " " << temp.getCount() << "\n";
+							Word* x=tree->get(Word(y));
+							if (x!=nullptr){
+									cout << "GOT " << x->getWord() << " " << x->getCount() << "\n";
+								} else {
+									cout << "GOT " << y <<  " 0 \n";
+								}
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
-					}else if( getLine.at(0) == 'E'){
+					}else if( nextLine.at(0) == 'E'){
 						if (tree != nullptr){
-							if (getNodeCount() == 0){
+							if (tree->getNodeCount() == 0){
 								cout<< "TREE EMPTY\n";
 							}else{
 								tree->printReverseOrder();
 							}
 						}else {
 							cout <<"MUST CREATE TREE INSTANCE\n";
-					}else if (nextLine.at(0)=='O'){
+						}
+					} else if (nextLine.at(0)=='O'){
 						if (tree!=nullptr){
 							if (tree->getNodeCount()>0){
 	              tree->printInOrder();
@@ -123,7 +128,8 @@ int main(int argc, char* argv[]){
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
 					}
-      }else {
+				}
+			}else {
         cout << "Unable to find/read file.\n";
         running=false;
       }

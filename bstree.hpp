@@ -20,7 +20,7 @@ class BSTree {
 		}
 
 		bool remove(T data) {
-			
+			return remove(data, root);
 		}
 
 		bool find(T data) {
@@ -123,7 +123,7 @@ class BSTree {
         return find(n->leftChild, data);
       } else if(n->data < data){
         return find(n->rightChild, data);
-      }else if(n->data == sdata){
+      }else{
         return true;
       }
     }
@@ -135,8 +135,49 @@ class BSTree {
 				return get(n->leftChild, data);
 			} else if(n->data < data){
 				return get(n->rightChild, data);
-			}else if(n->data == data){
+			}else {
 				return &(n->data);
+			}
+		}
+
+		/*
+			Removes target data from tree with calls to removeMax to remove right side values
+			@param data target to be removed
+			@param n a link to tree
+			@return true if data is removed, false if not
+		*/
+		bool remove(T data, Node*& n) {
+			if(n == nullptr){
+				return false;
+			} else if (data < n->data) {
+				return remove(data, n->leftChild);
+			} else if (data > n->data) {
+				return remove(data, n->rightChild);
+			} else {
+				if(n->leftChild == nullptr) {
+					Node* temproot = n;
+					n = n->rightChild;
+					delete temproot;
+				} else {
+					removeMax(n->data, n->leftChild);
+				}
+				nodeCount--;
+				return true;
+			}
+		}
+
+		/*
+			Removes target data from right(max) side of TREE
+			@param data the data to be removed
+			@para n a link to the tree
+		*/
+		void removeMax(T& data, Node*& n) {
+			if(n->rightChild == nullptr) {
+				data = n->data;
+				n = n->leftChild;
+				delete n;
+			} else {
+				removeMax(data, n->rightChild);
 			}
 		}
 

@@ -1,5 +1,5 @@
 Makefile
-
+*.bat
 # Prerequisites
 *.d
 
@@ -32,3 +32,4 @@ Makefile
 *.exe
 *.out
 *.app
+Makefile
