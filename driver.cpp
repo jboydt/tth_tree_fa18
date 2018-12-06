@@ -38,6 +38,7 @@ int main(int argc, char* argv[]){
           }else if (nextLine.at(0)=='D'){
             if (tree!=nullptr){
 							delete tree;
+							tree = nullptr;
 							cout << "TREE DELETED\n";
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
