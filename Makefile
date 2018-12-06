@@ -5,12 +5,12 @@ CPP_FLAGS = -std=c++11 -Wall -Wextra -Werror
 #RM = rm -f
 
 # uncomment for Mac OS X
-CC = g++
-RM = rm -f
+# CC = g++
+# RM = rm -f
 
 # # uncomment for Windows
-#  CC = g++
-# RM = del # cmd.exe
+  CC = g++
+ RM = del # cmd.exe
 # # RM = rm -fo # PowerShell
 
 driver.exe: driver.cpp word.o
