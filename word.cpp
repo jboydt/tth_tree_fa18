@@ -46,7 +46,7 @@ bool Word::operator==(const Word& otherWord)  {
 }
 
  ostream& operator<<(ostream& outs, const Word& w)  {
-  outs<< w.name
+  outs<< Word::uppercase(w.name)
       << " "
       << w.amount;
   return outs;

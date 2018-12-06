@@ -32,8 +32,9 @@ public:
 
   friend ostream& operator<<(ostream& outs, const Word& w);
 
+  static string uppercase(string s);
+
 private:
-  string uppercase(string s);
   string name;
   unsigned int amount;
 

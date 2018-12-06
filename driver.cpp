@@ -65,10 +65,10 @@ int main(int argc, char* argv[]){
 							if (tree->find(x)){
 								Word* m = tree->get(x);
 								m->incrementCount();
-								cout << "WORD " << y << " INCREMENTED\n";
+								cout << Word::uppercase(y) << " INCREMENTED\n";
               } else {
 								tree->insert(x);
-								cout << "WORD " << y << " INSERTED\n";
+								cout << Word::uppercase(y) << " INSERTED\n";
 							}
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
@@ -80,9 +80,9 @@ int main(int argc, char* argv[]){
 	              string y=trim(nextLine.substr(2, 999));
 								Word x(y);
 								if (tree->find(x)){
-									cout << "WORD " << y << " FOUND\n";
+									cout << Word::uppercase(y) << " FOUND\n";
 	              }else {
-									cout << "WORD " << y << " NOT FOUND\n";
+									cout << Word::uppercase(y) << " NOT FOUND\n";
 								}
 							}else{
 								cout << "TREE EMPTY\n";
@@ -97,9 +97,9 @@ int main(int argc, char* argv[]){
 	              string y=trim(nextLine.substr(2, 999));
 								Word x(y);
 								if (tree->remove(x)){
-									cout << "WORD " << y << " REMOVED\n";
+									cout << Word::uppercase(y) << " REMOVED\n";
 	              }else {
-									cout << "WORD " << y << " NOT FOUND\n";
+									cout << Word::uppercase(y) << " NOT FOUND\n";
 								}
 							}else{
 								cout << "TREE EMPTY\n";
@@ -117,16 +117,20 @@ int main(int argc, char* argv[]){
 						break;
 					case 'G':
             if (tree!=nullptr){
-              string y=trim(nextLine.substr(2, 999));
-							Word* x = tree->get(Word(y));
-							if (x!=nullptr){
-									cout << "GOT " << *x << "\n";
-								} else {
-									cout << y <<  " NOT FOUND\n";
-								}
-						}else{
-							cout << "MUST CREATE TREE INSTANCE\n";
+							if (tree->getNodeCount()>0){
+	              string y=trim(nextLine.substr(2, 999));
+								Word* x = tree->get(Word(y));
+								if (x!=nullptr){
+										cout << "GOT " << *x << "\n";
+									}else {
+										cout << Word::uppercase(y) <<  " NOT FOUND\n";
+									}
+								}else{
+							cout << "TREE EMPTY\n";
 						}
+					}else{
+								cout << "MUST CREATE TREE INSTANCE\n";
+								}
 						break;
 					case 'E':
 						if (tree != nullptr){
@@ -143,7 +147,6 @@ int main(int argc, char* argv[]){
 						if (tree!=nullptr){
 							if (tree->getNodeCount()>0){
 	              tree->printInOrder();
-                cout << endl;
 							}else{
 								cout << "TREE EMPTY\n";
 							}
