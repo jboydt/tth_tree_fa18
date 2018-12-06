@@ -16,3 +16,13 @@ i
 I meow
 r
 R meow
+#testing find Word
+C
+I akira
+I shinji
+I Tetsuo
+I phone
+I Bruno
+F mom
+F Shinji
+F shinji

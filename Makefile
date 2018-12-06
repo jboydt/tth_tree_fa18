@@ -5,8 +5,13 @@ CPP_FLAGS = -std=c++11 -Wall -Wextra -Werror
 #RM = rm -f
 
 # uncomment for Mac OS X
+<<<<<<< HEAD
 #CC = g++
 #RM = rm -f
+=======
+# CC = g++
+# RM = rm -f
+>>>>>>> 6642b4a1a9a3a503b22689ef5824b847f37f5aad
 
 # # uncomment for Windows
   CC = g++
