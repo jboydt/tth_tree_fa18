@@ -74,9 +74,9 @@ int main(int argc, char* argv[]){
 	              string y=trim(nextLine.substr(2, 999));
 								Word x(y);
 								if (tree->find(x)){
-									cout << "WORD " << y << " FOUND\n";
+									cout << "FOUND " << y << endl;
 	              }else {
-									cout << "WORD " << y << " NOT FOUND\n";
+									cout <<  y << " NOT FOUND\n";
 								}
 							}else{
 								cout << "TREE EMPTY\n";
@@ -90,9 +90,9 @@ int main(int argc, char* argv[]){
 	              string y=trim(nextLine.substr(2, 999));
 								Word x(y);
 								if (tree->remove(x)){
-									cout << "WORD " << y << " REMOVED\n";
+									cout << "REMOVED " << y << endl;
 	              }else {
-									cout << "WORD " << y << " NOT FOUND\n";
+									cout << y << " NOT FOUND\n";
 								}
 							}else{
 								cout << "TREE EMPTY\n";

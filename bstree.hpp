@@ -99,7 +99,7 @@ class BSTree {
 				// do nothing
 			} else {
 				printInOrder(n->leftChild);
-				cout << n->data << ',';
+				cout << n->data << '\n';
 				printInOrder(n->rightChild);
 			}
 		}
@@ -110,7 +110,7 @@ class BSTree {
         // do nothing
       } else {
         printReverseOrder(n->rightChild);
-        cout << n->data << ',';
+        cout << n->data << '\n';
         printReverseOrder(n->leftChild);
       }
     }
