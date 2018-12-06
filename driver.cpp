@@ -4,7 +4,7 @@
 // parse commands
 // apply commands to a tree
 #include "bstree.hpp"
-#include "word.cpp"
+#include "word.h"
 #include <fstream>
 #include <functional>
 #include <iostream>
