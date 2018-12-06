@@ -1,14 +1,24 @@
 #chrisTestTXT
 # test for empty TREE
 #
-F apple
-R Apple
-G Apple
 C
-F apple
-R Apple
-G Apple
 I Apple
-F apple
-R Apple
+I Apple
+I Apple
+I Banana
+I Banana
+I Banana
+I Cherry
+I Cherry
+I Cherry
+O
+E
 G Apple
+G Banana
+G Cherry
+R Cherry
+O
+E
+G Apple
+G Banana
+G Cherry
