@@ -15,7 +15,7 @@ void Word::setWord(string newWord) {
 }
 
 void Word::incrementCount(unsigned int amount){
-  amount++;
+    amount++;
 }
 
 string Word::getWord()  {
