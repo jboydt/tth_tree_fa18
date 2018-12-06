@@ -123,10 +123,9 @@ class BSTree {
         return find(n->leftChild, data);
       } else if(n->data < data){
         return find(n->rightChild, data);
-      }else if(n->data == data){
+      }else{
         return true;
       }
-			return false;
     }
 
 		T* get(Node* n, T data){
@@ -136,10 +135,9 @@ class BSTree {
 				return get(n->leftChild, data);
 			} else if(n->data < data){
 				return get(n->rightChild, data);
-			}else if(n->data == data){
+			}else {
 				return &(n->data);
 			}
-			return nullptr;
 		}
 
 		/*
