@@ -132,10 +132,12 @@ int main(int argc, char* argv[]){
 						}
 					}
 				}
+        running = false;
 			}else {
         cout << "Unable to find/read file.\n";
         running=false;
       }
     }
+
   }
 }

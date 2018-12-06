@@ -158,6 +158,7 @@ class BSTree {
 					Node* temproot = n;
 					n = n->rightChild;
 					delete temproot;
+          temproot = nullptr;
 				} else {
 					removeMax(n->data, n->leftChild);
 				}
@@ -176,6 +177,7 @@ class BSTree {
 				data = n->data;
 				n = n->leftChild;
 				delete n;
+        n = nullptr;
 			} else {
 				removeMax(data, n->rightChild);
 			}
