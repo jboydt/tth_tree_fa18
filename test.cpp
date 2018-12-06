@@ -8,7 +8,7 @@
 #include <sstream>
 using std::string;
 using std::stringstream;
-
+/*
 TEST_CASE("Word function test") {
   Word Apple;
   //sets the word to default to ???
@@ -42,6 +42,30 @@ TEST_CASE("Word function test") {
   stringstream ss;
   ss << Apple;
   CHECK(ss.str() == "Apple");
+}*/
+
+TEST_CASE("BSTree<Word> remove") {
+  BSTree<string> tree;
+  CHECK(tree.getNodeCount() == 0);
+
+  tree.insert("elephant");
+  tree.insert("dog");
+  tree.insert("cat");
+  tree.insert("snake");
+  tree.insert("llama");
+  tree.insert("dragon");
+  tree.insert("doughnaut");
+  tree.insert("giraffe");
+  tree.insert("fish");
+  tree.insert("shark");
+
+  tree.printInOrder();
+
+  tree.remove("giraffe");
+
+  cout << "\n" << endl;
+
+  tree.printInOrder();
 }
 
 /*TEST_CASE("BSTree<Word> basic"){
