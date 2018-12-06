@@ -9,6 +9,16 @@
 #include <functional>
 #include <iostream>
 using namespace std;
+
+string trim(string s) {
+  int i = 0;
+  while (isspace(s[i])) i++;
+  int j = s.length() - 1;
+  while (isspace(s[j])) j--;
+
+  return s.substr(i, j - i + 1);
+}
+
 int main(int argc, char* argv[]){
 	if (argc!=2){
 		cout << "Usage: " << argv[0] << " FILENAME\n";
@@ -45,7 +55,7 @@ int main(int argc, char* argv[]){
 						}
           }else if (nextLine.at(0)=='I'){
             if (tree!=nullptr){
-              string y=nextLine.substr(2, 999);
+              string y=trim(nextLine.substr(2, 999));
 							Word x(y);
 							if (tree->find(x)){
 								Word* m = tree->get(x);
@@ -61,7 +71,7 @@ int main(int argc, char* argv[]){
           }else if (nextLine.at(0)=='F'){
             if (tree!=nullptr){
 							if (tree->getNodeCount()>0){
-	              string y=nextLine.substr(2, 999);
+	              string y=trim(nextLine.substr(2, 999));
 								Word x(y);
 								if (tree->find(x)){
 									cout << "WORD " << y << " FOUND\n";
@@ -77,7 +87,7 @@ int main(int argc, char* argv[]){
           }else if (nextLine.at(0)=='R'){
             if (tree!=nullptr){
 							if (tree->getNodeCount()>0){
-	              string y=nextLine.substr(2, 999);
+	              string y=trim(nextLine.substr(2, 999));
 								Word x(y);
 								if (tree->remove(x)){
 									cout << "WORD " << y << " REMOVED\n";
@@ -98,12 +108,12 @@ int main(int argc, char* argv[]){
 						}
 					}else if (nextLine.at(0)=='G'){
             if (tree!=nullptr){
-              string y=nextLine.substr(2, 999);
-							Word* x=tree->get(Word(y));
+              string y=trim(nextLine.substr(2, 999));
+							Word* x = tree->get(Word(y));
 							if (x!=nullptr){
-									cout << "GOT " << x->getWord() << " " << x->getCount() << "\n";
+									cout << "GOT " << *x << "\n";
 								} else {
-									cout << "GOT " << y <<  " 0 \n";
+									cout << y <<  " NOT FOUND\n";
 								}
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
@@ -122,6 +132,7 @@ int main(int argc, char* argv[]){
 						if (tree!=nullptr){
 							if (tree->getNodeCount()>0){
 	              tree->printInOrder();
+                cout << endl;
 							}else{
 								cout << "TREE EMPTY\n";
 							}
