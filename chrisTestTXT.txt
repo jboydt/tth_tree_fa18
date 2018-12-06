@@ -1,5 +1,4 @@
-//chrisTestTXT
-
+#chrisTestTXT
 # test for empty TREE
 #
 d
@@ -8,7 +7,6 @@ c
 C
 r
 R queef
-
 # test remove where root has target
 d
 D
