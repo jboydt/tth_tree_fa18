@@ -48,11 +48,13 @@ int main(int argc, char* argv[]){
               string y=nextLine.substr(2, 999);
 							Word x(y);
 							if (tree->find(x)){
+								Word* m = tree->get(x);
+								m->incrementCount();
 								cout << "WORD " << y << " INCREMENTED\n";
               } else {
+								tree->insert(x);
 								cout << "WORD " << y << " INSERTED\n";
 							}
-							tree->insert(x);
 						}else{
 							cout << "MUST CREATE TREE INSTANCE\n";
 						}
