@@ -15,11 +15,7 @@ void Word::setWord(string newWord) {
 }
 
 void Word::incrementCount(unsigned int amount){
-<<<<<<< HEAD
     amount++;
-=======
-
->>>>>>> dbb9fca00150e41728aaeff52ae4674cb814dab0
 }
 
 string Word::getWord()  {
