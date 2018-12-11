@@ -5,6 +5,10 @@ Binary search tree, TTh section, Fall 2018 (Project 4).
 
 ## Description:
 This is a binary search tree made as a collaboration by the Tuesday/Thursday Butte College Fall 2018 CSCI21 class.
+## Start Date to Finish Date
+Start date   | Finish date
+-------------|------------
+11 / 27 / 18 | 12 / 11 / 18
 
 ## Supported Functions:
 Function          | Description
@@ -16,15 +20,16 @@ getNodeCount      | Return the size (number of nodes) of the tree
 insert            | Insert word (string) into the tree
 printInOrder      | In order print of tree contents
 printReverseOrder | Reverse order print of tree contents
+remove            | Remove word (string) from the tree
 
 
 ## Contributors:
-Name                  | Github
---------------------- | -------------
-John Boyd Trolinger   | jboydt
+Name                  |
+--------------------- |
+John Boyd Trolinger   | 
 Aziz, Abdullah A.     |
 Carlson, Jacob G.     | 
-Crawford, Kevin       | kcrawford5
+Crawford, Kevin       |
 Davies, Colton J.     |
 Gaddini, Madeline R.  |
 Granados, Andreina C. |
