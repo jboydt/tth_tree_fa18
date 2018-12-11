@@ -19,4 +19,6 @@ printReverseOrder |
 
 
 ## Contributors:
-* John Boyd Trolinger
+Name                | Github
+------------------- | -------------
+John Boyd Trolinger | jboydt
