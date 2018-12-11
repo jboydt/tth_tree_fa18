@@ -4,7 +4,7 @@
 Binary search tree, TTh section, Fall 2018 (Project 4).
 
 ## Description:
-This is a binary search tree made as a collaboration by the Tuesday/Thursday Butte College Fall 2018 CSCI21 class.
+This is a binary search tree made as a collabortaion by the Tuesday/Thursday Butte College Fall 2018 CSCI21 class.
 
 ## Supported Functions:
 Function          | Description
@@ -22,3 +22,19 @@ printReverseOrder | Reverse order print of tree contents
 Name                | Github
 ------------------- | -------------
 John Boyd Trolinger | jboydt
+Aziz, Abdullah A.
+Carlson, Jacob G.
+Crawford, Kevin
+Davies, Colton J.
+Gaddini, Madeline R.
+Granados, Andreina C.
+Henderson, Anthony C.
+Layman, Gary D.
+Lopez, Cyrus
+Lupton, Hunter S.
+Marshburn, Ethan
+Mattly, Andrew D.
+Mazzocco, Matthew D.
+Moskowitz, Andrew
+Palos, Juan L.
+Rosales, Miguel
