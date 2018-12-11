@@ -9,13 +9,13 @@ This is a binary search tree made as a collabortaion by the Tuesday/Thursday But
 ## Supported Functions:
 Function          | Description
 ----------------- | -----------
-clear             |
-find              |
-get               |
-getNodeCount      |
-insert            |
-printInOrder      |
-printReverseOrder |
+clear             | Clear the current tree instance of contents
+find              | Find word (string) in the tree
+get               | Get word (string) from the tree
+getNodeCount      | Return the size (number of nodes) of the tree
+insert            | Insert word (string) into the tree
+printInOrder      | In order print of tree contents
+printReverseOrder | Reverse order print of tree contents
 
 
 ## Contributors:
