@@ -1,18 +1,24 @@
 #chrisTestTXT
 # test for empty TREE
 #
-d
-D
-c
 C
-r
-R queef
-# test remove where root has target
-d
-D
-c
-C
-i
-I meow
-r
-R meow
+I Apple
+I Apple
+I Apple
+I Banana
+I Banana
+I Banana
+I Cherry
+I Cherry
+I Cherry
+O
+E
+G Apple
+G Banana
+G Cherry
+R Cherry
+O
+E
+G Apple
+G Banana
+G Cherry
